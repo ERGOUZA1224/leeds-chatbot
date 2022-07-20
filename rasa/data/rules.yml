@@ -1,0 +1,1768 @@
+version: "2.0"
+
+rules:
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- rule: Accreditation_taught_programmes
+  steps:
+  - intent: Accreditation_taught_programmes
+  - action: utter_Accreditation_taught_programmes
+
+- rule: Attendance_code_of_practice_taught_students
+  steps:
+  - intent: Attendance_code_of_practice_taught_students
+  - action: utter_Attendance_code_of_practice_taught_students
+
+- rule: Audio_and_visual_in_student_education
+  steps:
+  - intent: Audio_and_visual_in_student_education
+  - action: utter_Audio_and_visual_in_student_education
+
+- rule: Blended_learning_strategy
+  steps:
+  - intent: Blended_learning_strategy
+  - action: utter_Blended_learning_strategy
+
+- rule: Committees_of_the_University
+  steps:
+  - intent: Committees_of_the_University
+  - action: utter_Committees_of_the_University
+
+- rule: Data_protection
+  steps:
+  - intent: Data_protection
+  - action: utter_Data_protection
+
+- rule: Distance_learning_taught_students
+  steps:
+  - intent: Distance_learning_taught_students
+  - action: utter_Distance_learning_taught_students
+
+- rule: Engagement_monitoring_attendance
+  steps:
+  - intent: Engagement_monitoring_attendance
+  - action: utter_Engagement_monitoring_attendance
+
+- rule: Equality_and_inclusion
+  steps:
+  - intent: Equality_and_inclusion
+  - action: utter_Equality_and_inclusion
+
+- rule: Joint_honours_definition_taught_students
+  steps:
+  - intent: Joint_honours_definition_taught_students
+  - action: utter_Joint_honours_definition_taught_students
+
+- rule: Open_Educational_Resources_taught_students
+  steps:
+  - intent: Open_Educational_Resources_taught_students
+  - action: utter_Open_Educational_Resources_taught_students
+
+- rule: Ordinances
+  steps:
+  - intent: Ordinances
+  - action: utter_Ordinances
+
+- rule: Programme_title_changes_taught_students
+  steps:
+  - intent: Programme_title_changes_taught_students
+  - action: utter_Programme_title_changes_taught_students
+
+- rule: Religious_observance
+  steps:
+  - intent: Religious_observance
+  - action: utter_Religious_observance
+
+- rule: Risk_assessment_of_fieldwork
+  steps:
+  - intent: Risk_assessment_of_fieldwork
+  - action: utter_Risk_assessment_of_fieldwork
+
+- rule: Special_Cases_Committee
+  steps:
+  - intent: Special_Cases_Committee
+  - action: utter_Special_Cases_Committee
+
+- rule: Student_Staff_Partnership_Forums
+  steps:
+  - intent: Student_Staff_Partnership_Forums
+  - action: utter_Student_Staff_Partnership_Forums
+
+- rule: Supernumerary_modules
+  steps:
+  - intent: Supernumerary_modules
+  - action: utter_Supernumerary_modules
+
+- rule: Timetabling_and_central_space_management
+  steps:
+  - intent: Timetabling_and_central_space_management
+  - action: utter_Timetabling_and_central_space_management
+
+- rule: Timetabling_Policies_and_Guidance_Documents
+  steps:
+  - intent: Timetabling_Policies_and_Guidance_Documents
+  - action: utter_Timetabling_Policies_and_Guidance_Documents
+
+- rule: Registration
+  steps:
+  - intent: Registration
+  - action: utter_Registration
+
+- rule: Module_Enrolment
+  steps:
+  - intent: Module_Enrolment
+  - action: utter_Module_Enrolment
+
+- rule: Attendance_and_engagement
+  steps:
+  - intent: Attendance_and_engagement
+  - action: utter_Attendance_and_engagement
+
+- rule: Registration_and_tuition_payment
+  steps:
+  - intent: Registration_and_tuition_payment
+  - action: utter_Registration_and_tuition_payment
+
+- rule: Change_of_module
+  steps:
+  - intent: Change_of_module
+  - action: utter_Change_of_module
+
+- rule: Change_of_programme
+  steps:
+  - intent: Change_of_programme
+  - action: utter_Change_of_programme
+
+- rule: Extensions_to_study_period_taught_postgraduate
+  steps:
+  - intent: Extensions_to_study_period_taught_postgraduate
+  - action: utter_Extensions_to_study_period_taught_postgraduate
+
+- rule: School_Timetabler_Contact_List
+  steps:
+  - intent: School_Timetabler_Contact_List
+  - action: utter_School_Timetabler_Contact_List
+
+- rule: How_to_Access_your_Online_Timetable_and_Classlists
+  steps:
+  - intent: How_to_Access_your_Online_Timetable_and_Classlists
+  - action: utter_How_to_Access_your_Online_Timetable_and_Classlists
+
+- rule: When_you_should_contact_your_School_Timetabler
+  steps:
+  - intent: When_you_should_contact_your_School_Timetabler
+  - action: utter_When_you_should_contact_your_School_Timetabler
+
+- rule: Frequently_Asked_Questions
+  steps:
+  - intent: Frequently_Asked_Questions
+  - action: utter_Frequently_Asked_Questions
+
+- rule: Teaching_Week_Patterns
+  steps:
+  - intent: Teaching_Week_Patterns
+  - action: utter_Teaching_Week_Patterns
+
+- rule: University_Key_Dates
+  steps:
+  - intent: University_Key_Dates
+  - action: utter_University_Key_Dates
+
+- rule: Guidance_for_Teaching_Staff:_The_Timetable_and_Delivery_Methods
+  steps:
+  - intent: Guidance_for_Teaching_Staff:_The_Timetable_and_Delivery_Methods
+  - action: utter_Guidance_for_Teaching_Staff:_The_Timetable_and_Delivery_Methods
+
+- rule: Room_and_Building_Information
+  steps:
+  - intent: Room_and_Building_Information
+  - action: utter_Room_and_Building_Information
+
+- rule: Timetable_Views
+  steps:
+  - intent: Timetable_Views
+  - action: utter_Timetable_Views
+
+- rule: Live_Streaming
+  steps:
+  - intent: Live_Streaming
+  - action: utter_Live_Streaming
+
+- rule: Room_Bookings_for_Ad-Hoc_Activities
+  steps:
+  - intent: Room_Bookings_for_Ad-Hoc_Activities
+  - action: utter_Room_Bookings_for_Ad-Hoc_Activities
+
+- rule: When_a_student_wishes_to_leave
+  steps:
+  - intent: When_a_student_wishes_to_leave
+  - action: utter_When_a_student_wishes_to_leave
+
+- rule: Temporary_leavers
+  steps:
+  - intent: Temporary_leavers
+  - action: utter_Temporary_leavers
+
+- rule: Permanent_leavers
+  steps:
+  - intent: Permanent_leavers
+  - action: utter_Permanent_leavers
+
+- rule: Presumed_leavers
+  steps:
+  - intent: Presumed_leavers
+  - action: utter_Presumed_leavers
+
+- rule: Fees_for_leavers
+  steps:
+  - intent: Fees_for_leavers
+  - action: utter_Fees_for_leavers
+
+- rule: Funding_for_disabled_students
+  steps:
+  - intent: Funding_for_disabled_students
+  - action: utter_Funding_for_disabled_students
+
+- rule: Tuition_fee_Scholarships_and_awards
+  steps:
+  - intent: Tuition_fee_Scholarships_and_awards
+  - action: utter_Tuition_fee_Scholarships_and_awards
+
+- rule: Maintenance_awards
+  steps:
+  - intent: Maintenance_awards
+  - action: utter_Maintenance_awards
+
+- rule: Undergraduate_research_and_leadership_scholarships
+  steps:
+  - intent: Undergraduate_research_and_leadership_scholarships
+  - action: utter_Undergraduate_research_and_leadership_scholarships
+
+- rule: Leeds_Bursary
+  steps:
+  - intent: Leeds_Bursary
+  - action: utter_Leeds_Bursary
+
+- rule: University_prizes
+  steps:
+  - intent: University_prizes
+  - action: utter_University_prizes
+
+- rule: Alumni_bursary
+  steps:
+  - intent: Alumni_bursary
+  - action: utter_Alumni_bursary
+
+- rule: Authorised_signatories
+  steps:
+  - intent: Authorised_signatories
+  - action: utter_Authorised_signatories
+
+- rule: Late_payment_charges
+  steps:
+  - intent: Late_payment_charges
+  - action: utter_Late_payment_charges
+
+- rule: Tuition_Payment_for_Sponsored_students
+  steps:
+  - intent: Tuition_Payment_for_Sponsored_students
+  - action: utter_Tuition_Payment_for_Sponsored_students
+
+- rule: Reduced_fees_and_returners
+  steps:
+  - intent: Reduced_fees_and_returners
+  - action: utter_Reduced_fees_and_returners
+
+- rule: Financial_difficulties
+  steps:
+  - intent: Financial_difficulties
+  - action: utter_Financial_difficulties
+
+- rule: Regulations,_codes,_policies_and_procedures_for_postgraduate_research
+  steps:
+  - intent: Regulations,_codes,_policies_and_procedures_for_postgraduate_research
+  - action: utter_Regulations,_codes,_policies_and_procedures_for_postgraduate_research
+
+- rule: Research_degree_candidatures_code_of_practice
+  steps:
+  - intent: Research_degree_candidatures_code_of_practice
+  - action: utter_Research_degree_candidatures_code_of_practice
+
+- rule: Professional_Doctorate
+  steps:
+  - intent: Professional_Doctorate
+  - action: utter_Professional_Doctorate
+
+- rule: Integrated_PhD
+  steps:
+  - intent: Integrated_PhD
+  - action: utter_Integrated_PhD
+
+- rule: Distance_learning
+  steps:
+  - intent: Distance_learning
+  - action: utter_Distance_learning
+
+- rule: Practice-led_PhD
+  steps:
+  - intent: Practice-led_PhD
+  - action: utter_Practice-led_PhD
+
+- rule: Dual_PhD
+  steps:
+  - intent: Dual_PhD
+  - action: utter_Dual_PhD
+
+- rule: Joint_PhD
+  steps:
+  - intent: Joint_PhD
+  - action: utter_Joint_PhD
+
+- rule: Split_site_PhD
+  steps:
+  - intent: Split_site_PhD
+  - action: utter_Split_site_PhD
+
+- rule: Reduced_time_at_Leeds_for_postgraduate_researchers
+  steps:
+  - intent: Reduced_time_at_Leeds_for_postgraduate_researchers
+  - action: utter_Reduced_time_at_Leeds_for_postgraduate_researchers
+
+- rule: Examiners'_joint_report_forms_postgraduate_research
+  steps:
+  - intent: Examiners'_joint_report_forms_postgraduate_research
+  - action: utter_Examiners'_joint_report_forms_postgraduate_research
+
+- rule: Research_degree_examiners:_additional_information
+  steps:
+  - intent: Research_degree_examiners:_additional_information
+  - action: utter_Research_degree_examiners:_additional_information
+
+- rule: Thesis_titles_research_students
+  steps:
+  - intent: Thesis_titles_research_students
+  - action: utter_Thesis_titles_research_students
+
+- rule: Video_streaming_for_a_final_research_degree_oral_examination_research_students
+  steps:
+  - intent: Video_streaming_for_a_final_research_degree_oral_examination_research_students
+  - action: utter_Video_streaming_for_a_final_research_degree_oral_examination_research_students
+
+- rule: Applications_for_postgraduate_research_degrees
+  steps:
+  - intent: Applications_for_postgraduate_research_degrees
+  - action: utter_Applications_for_postgraduate_research_degrees
+
+- rule: Conditions_of_acceptance_for_postgraduate_researcher_applicants
+  steps:
+  - intent: Conditions_of_acceptance_for_postgraduate_researcher_applicants
+  - action: utter_Conditions_of_acceptance_for_postgraduate_researcher_applicants
+
+- rule: English_language_requirements_for_postgraduate_researchers
+  steps:
+  - intent: English_language_requirements_for_postgraduate_researchers
+  - action: utter_English_language_requirements_for_postgraduate_researchers
+
+- rule: Exceptional_cases_for_postgraduate_research_admission
+  steps:
+  - intent: Exceptional_cases_for_postgraduate_research_admission
+  - action: utter_Exceptional_cases_for_postgraduate_research_admission
+
+- rule: Induction_for_postgraduate_researchers
+  steps:
+  - intent: Induction_for_postgraduate_researchers
+  - action: utter_Induction_for_postgraduate_researchers
+
+- rule: Postgraduate_researcher_-_admission_start_dates/changes_of_start_date
+  steps:
+  - intent: Postgraduate_researcher_-_admission_start_dates/changes_of_start_date
+  - action: utter_Postgraduate_researcher_-_admission_start_dates/changes_of_start_date
+
+- rule: Postgraduate_researchers_enrolling_on_taught_modules
+  steps:
+  - intent: Postgraduate_researchers_enrolling_on_taught_modules
+  - action: utter_Postgraduate_researchers_enrolling_on_taught_modules
+
+- rule: References_for_research_degree_applications
+  steps:
+  - intent: References_for_research_degree_applications
+  - action: utter_References_for_research_degree_applications
+
+- rule: Research_postgraduate_admissions_policy
+  steps:
+  - intent: Research_postgraduate_admissions_policy
+  - action: utter_Research_postgraduate_admissions_policy
+
+- rule: Research_postgraduate_applicants_awaiting_master's_degree_results
+  steps:
+  - intent: Research_postgraduate_applicants_awaiting_master's_degree_results
+  - action: utter_Research_postgraduate_applicants_awaiting_master's_degree_results
+
+- rule: Transfers_in_-_postgraduate_researchers
+  steps:
+  - intent: Transfers_in_-_postgraduate_researchers
+  - action: utter_Transfers_in_-_postgraduate_researchers
+
+- rule: Visiting_postgraduate_researchers
+  steps:
+  - intent: Visiting_postgraduate_researchers
+  - action: utter_Visiting_postgraduate_researchers
+
+- rule: GRAD
+  steps:
+  - intent: GRAD
+  - action: utter_GRAD
+
+- rule: Progress_and_monitoring_-_postgraduate_researchers
+  steps:
+  - intent: Progress_and_monitoring_-_postgraduate_researchers
+  - action: utter_Progress_and_monitoring_-_postgraduate_researchers
+
+- rule: Transfer_to_doctoral_study
+  steps:
+  - intent: Transfer_to_doctoral_study
+  - action: utter_Transfer_to_doctoral_study
+
+- rule: Examinations_Group
+  steps:
+  - intent: Examinations_Group
+  - action: utter_Examinations_Group
+
+- rule: Faculty_Graduate_School_Committees_2021/2022_Terms_of_Reference
+  steps:
+  - intent: Faculty_Graduate_School_Committees_2021/2022_Terms_of_Reference
+  - action: utter_Faculty_Graduate_School_Committees_2021/2022_Terms_of_Reference
+
+- rule: Graduate_Board
+  steps:
+  - intent: Graduate_Board
+  - action: utter_Graduate_Board
+
+- rule: Higher_Doctorates
+  steps:
+  - intent: Higher_Doctorates
+  - action: utter_Higher_Doctorates
+
+- rule: PGR_Programmes_and_Quality_Group
+  steps:
+  - intent: PGR_Programmes_and_Quality_Group
+  - action: utter_PGR_Programmes_and_Quality_Group
+
+- rule: PGR_Recruitment_Group
+  steps:
+  - intent: PGR_Recruitment_Group
+  - action: utter_PGR_Recruitment_Group
+
+- rule: Postgraduate_Researcher_Development_Steering_Group
+  steps:
+  - intent: Postgraduate_Researcher_Development_Steering_Group
+  - action: utter_Postgraduate_Researcher_Development_Steering_Group
+
+- rule: Head_of_Graduate_School
+  steps:
+  - intent: Head_of_Graduate_School
+  - action: utter_Head_of_Graduate_School
+
+- rule: PGR_&_Operations_-_Admissions
+  steps:
+  - intent: PGR_&_Operations_-_Admissions
+  - action: utter_PGR_&_Operations_-_Admissions
+
+- rule: What_are_the_catalogues?
+  steps:
+  - intent: What_are_the_catalogues?
+  - action: utter_What_are_the_catalogues?
+
+- rule: Catalogue_publication_dates
+  steps:
+  - intent: Catalogue_publication_dates
+  - action: utter_Catalogue_publication_dates
+
+- rule: Catalogue_contacts
+  steps:
+  - intent: Catalogue_contacts
+  - action: utter_Catalogue_contacts
+
+- rule: Catalogue_training_links
+  steps:
+  - intent: Catalogue_training_links
+  - action: utter_Catalogue_training_links
+
+- rule: Student_handbooks
+  steps:
+  - intent: Student_handbooks
+  - action: utter_Student_handbooks
+
+- rule: Programme_support_management_team
+  steps:
+  - intent: Programme_support_management_team
+  - action: utter_Programme_support_management_team
+
+- rule: Accessible_written_materials
+  steps:
+  - intent: Accessible_written_materials
+  - action: utter_Accessible_written_materials
+
+- rule: Timelines_for_programmes_and_assessment
+  steps:
+  - intent: Timelines_for_programmes_and_assessment
+  - action: utter_Timelines_for_programmes_and_assessment
+
+- rule: Communicating_with_students_and_postgraduate_researchers.
+  steps:
+  - intent: Communicating_with_students_and_postgraduate_researchers.
+  - action: utter_Communicating_with_students_and_postgraduate_researchers.
+
+- rule: Ad_personam_and_ad_hoc_programme_variation_processes
+  steps:
+  - intent: Ad_personam_and_ad_hoc_programme_variation_processes
+  - action: utter_Ad_personam_and_ad_hoc_programme_variation_processes
+
+- rule: Language_attainment_guidelines_for_study_or_work_abroad
+  steps:
+  - intent: Language_attainment_guidelines_for_study_or_work_abroad
+  - action: utter_Language_attainment_guidelines_for_study_or_work_abroad
+
+- rule: Placement_and_study_abroad_-_student_support
+  steps:
+  - intent: Placement_and_study_abroad_-_student_support
+  - action: utter_Placement_and_study_abroad_-_student_support
+
+- rule: Placement_leaders_handbook
+  steps:
+  - intent: Placement_leaders_handbook
+  - action: utter_Placement_leaders_handbook
+
+- rule: Creating_new_exchanges
+  steps:
+  - intent: Creating_new_exchanges
+  - action: utter_Creating_new_exchanges
+
+- rule: Study_abroad_coordinators
+  steps:
+  - intent: Study_abroad_coordinators
+  - action: utter_Study_abroad_coordinators
+
+- rule: Coordinator_workshops
+  steps:
+  - intent: Coordinator_workshops
+  - action: utter_Coordinator_workshops
+
+- rule: Leeds_International_Summer_School
+  steps:
+  - intent: Leeds_International_Summer_School
+  - action: utter_Leeds_International_Summer_School
+
+- rule: What_the_Careers_Centre_offers
+  steps:
+  - intent: What_the_Careers_Centre_offers
+  - action: utter_What_the_Careers_Centre_offers
+
+- rule: Work-related_experience
+  steps:
+  - intent: Work-related_experience
+  - action: utter_Work-related_experience
+
+- rule: Enterprise
+  steps:
+  - intent: Enterprise
+  - action: utter_Enterprise
+
+- rule: Joblink
+  steps:
+  - intent: Joblink
+  - action: utter_Joblink
+
+- rule: Employability_network
+  steps:
+  - intent: Employability_network
+  - action: utter_Employability_network
+
+- rule: Placement_leaders_forum
+  steps:
+  - intent: Placement_leaders_forum
+  - action: utter_Placement_leaders_forum
+
+- rule: Key_Teams_for_International_Students
+  steps:
+  - intent: Key_Teams_for_International_Students
+  - action: utter_Key_Teams_for_International_Students
+
+- rule: Global_Community
+  steps:
+  - intent: Global_Community
+  - action: utter_Global_Community
+
+- rule: Global_Cafe_and_Online_Socials
+  steps:
+  - intent: Global_Cafe_and_Online_Socials
+  - action: utter_Global_Cafe_and_Online_Socials
+
+- rule: About_the_Leeds_Curriculum
+  steps:
+  - intent: About_the_Leeds_Curriculum
+  - action: utter_About_the_Leeds_Curriculum
+
+- rule: Broadening_education_choices
+  steps:
+  - intent: Broadening_education_choices
+  - action: utter_Broadening_education_choices
+
+- rule: Core_Programme_Threads
+  steps:
+  - intent: Core_Programme_Threads
+  - action: utter_Core_Programme_Threads
+
+- rule: Enhancing_teaching_and_research-based_learning
+  steps:
+  - intent: Enhancing_teaching_and_research-based_learning
+  - action: utter_Enhancing_teaching_and_research-based_learning
+
+- rule: Final_year_project_and_assessment
+  steps:
+  - intent: Final_year_project_and_assessment
+  - action: utter_Final_year_project_and_assessment
+
+- rule: Educational_Engagement
+  steps:
+  - intent: Educational_Engagement
+  - action: utter_Educational_Engagement
+
+- rule: Lifelong_learning_centre
+  steps:
+  - intent: Lifelong_learning_centre
+  - action: utter_Lifelong_learning_centre
+
+- rule: Student_Success_at_Leeds
+  steps:
+  - intent: Student_Success_at_Leeds
+  - action: utter_Student_Success_at_Leeds
+
+- rule: The_Student_Success_Team
+  steps:
+  - intent: The_Student_Success_Team
+  - action: utter_The_Student_Success_Team
+
+- rule: The_Plus_Programme
+  steps:
+  - intent: The_Plus_Programme
+  - action: utter_The_Plus_Programme
+
+- rule: LITE_and_Decolonising_the_Curriculum_at_Leeds
+  steps:
+  - intent: LITE_and_Decolonising_the_Curriculum_at_Leeds
+  - action: utter_LITE_and_Decolonising_the_Curriculum_at_Leeds
+
+- rule: Access_and_Student_Success_Strategy
+  steps:
+  - intent: Access_and_Student_Success_Strategy
+  - action: utter_Access_and_Student_Success_Strategy
+
+- rule: Access_and_Student_Success_Related_Reports
+  steps:
+  - intent: Access_and_Student_Success_Related_Reports
+  - action: utter_Access_and_Student_Success_Related_Reports
+
+- rule: Languages_for_All
+  steps:
+  - intent: Languages_for_All
+  - action: utter_Languages_for_All
+
+- rule: Volunteering
+  steps:
+  - intent: Volunteering
+  - action: utter_Volunteering
+
+- rule: LeedsforLife
+  steps:
+  - intent: LeedsforLife
+  - action: utter_LeedsforLife
+
+- rule: Students_into_Schools
+  steps:
+  - intent: Students_into_Schools
+  - action: utter_Students_into_Schools
+
+- rule: Student_societies
+  steps:
+  - intent: Student_societies
+  - action: utter_Student_societies
+
+- rule: Student_reps
+  steps:
+  - intent: Student_reps
+  - action: utter_Student_reps
+
+- rule: A_quick_guide_to_inputting_registers_into_Faculty_Services
+  steps:
+  - intent: A_quick_guide_to_inputting_registers_into_Faculty_Services
+  - action: utter_A_quick_guide_to_inputting_registers_into_Faculty_Services
+
+- rule: Appeals_taught_students
+  steps:
+  - intent: Appeals_taught_students
+  - action: utter_Appeals_taught_students
+
+- rule: Cheating,_plagiarism,_fraudulent_or_fabricated_coursework,_and_malpractice_in_University_assessments_taught_students
+  steps:
+  - intent: Cheating,_plagiarism,_fraudulent_or_fabricated_coursework,_and_malpractice_in_University_assessments_taught_students
+  - action: utter_Cheating,_plagiarism,_fraudulent_or_fabricated_coursework,_and_malpractice_in_University_assessments_taught_students
+
+- rule: Criminal_records
+  steps:
+  - intent: Criminal_records
+  - action: utter_Criminal_records
+
+- rule: Dignity_and_mutual_respect
+  steps:
+  - intent: Dignity_and_mutual_respect
+  - action: utter_Dignity_and_mutual_respect
+
+- rule: Disabled_postgraduate_research_students:_guide_for_examiners
+  steps:
+  - intent: Disabled_postgraduate_research_students:_guide_for_examiners
+  - action: utter_Disabled_postgraduate_research_students:_guide_for_examiners
+
+- rule: Engagement_monitoring_FAQs
+  steps:
+  - intent: Engagement_monitoring_FAQs
+  - action: utter_Engagement_monitoring_FAQs
+
+- rule: Fitness_to_practice
+  steps:
+  - intent: Fitness_to_practice
+  - action: utter_Fitness_to_practice
+
+- rule: Laptop_loans_for_students
+  steps:
+  - intent: Laptop_loans_for_students
+  - action: utter_Laptop_loans_for_students
+
+- rule: Mitigating_circumstances_letters_and_letters_of_attendance_at_counselling
+  steps:
+  - intent: Mitigating_circumstances_letters_and_letters_of_attendance_at_counselling
+  - action: utter_Mitigating_circumstances_letters_and_letters_of_attendance_at_counselling
+
+- rule: Muslim_prayer_room
+  steps:
+  - intent: Muslim_prayer_room
+  - action: utter_Muslim_prayer_room
+
+- rule: Parents_or_carers
+  steps:
+  - intent: Parents_or_carers
+  - action: utter_Parents_or_carers
+
+- rule: Peer_mentoring_policy
+  steps:
+  - intent: Peer_mentoring_policy
+  - action: utter_Peer_mentoring_policy
+
+- rule: Personal_tutorials
+  steps:
+  - intent: Personal_tutorials
+  - action: utter_Personal_tutorials
+
+- rule: Pregnant_students_and_students_with_very_young_children
+  steps:
+  - intent: Pregnant_students_and_students_with_very_young_children
+  - action: utter_Pregnant_students_and_students_with_very_young_children
+
+- rule: Proof-reading_taught_components
+  steps:
+  - intent: Proof-reading_taught_components
+  - action: utter_Proof-reading_taught_components
+
+- rule: Referred_students_taught
+  steps:
+  - intent: Referred_students_taught
+  - action: utter_Referred_students_taught
+
+- rule: Student_complaints
+  steps:
+  - intent: Student_complaints
+  - action: utter_Student_complaints
+
+- rule: Unsatisfactory_students_procedure_taught_students
+  steps:
+  - intent: Unsatisfactory_students_procedure_taught_students
+  - action: utter_Unsatisfactory_students_procedure_taught_students
+
+- rule: Students_in_crisis
+  steps:
+  - intent: Students_in_crisis
+  - action: utter_Students_in_crisis
+
+- rule: Disability_Contacts_in_Schools
+  steps:
+  - intent: Disability_Contacts_in_Schools
+  - action: utter_Disability_Contacts_in_Schools
+
+- rule: Student_Counselling_and_wellbeing
+  steps:
+  - intent: Student_Counselling_and_wellbeing
+  - action: utter_Student_Counselling_and_wellbeing
+
+- rule: Student_mental_health_team
+  steps:
+  - intent: Student_mental_health_team
+  - action: utter_Student_mental_health_team
+
+- rule: Support_services_across_the_University
+  steps:
+  - intent: Support_services_across_the_University
+  - action: utter_Support_services_across_the_University
+
+- rule: Supporting_the_Wellbeing_of_Students
+  steps:
+  - intent: Supporting_the_Wellbeing_of_Students
+  - action: utter_Supporting_the_Wellbeing_of_Students
+
+- rule: Change_of_name,_title_and/or_gender
+  steps:
+  - intent: Change_of_name,_title_and/or_gender
+  - action: utter_Change_of_name,_title_and/or_gender
+
+- rule: Pregnancy
+  steps:
+  - intent: Pregnancy
+  - action: utter_Pregnancy
+
+- rule: Student_parents
+  steps:
+  - intent: Student_parents
+  - action: utter_Student_parents
+
+- rule: Bereavement
+  steps:
+  - intent: Bereavement
+  - action: utter_Bereavement
+
+- rule: Temporary_disability
+  steps:
+  - intent: Temporary_disability
+  - action: utter_Temporary_disability
+
+- rule: Caring_responsibilites
+  steps:
+  - intent: Caring_responsibilites
+  - action: utter_Caring_responsibilites
+
+- rule: Autism_Spectrum_conditions
+  steps:
+  - intent: Autism_Spectrum_conditions
+  - action: utter_Autism_Spectrum_conditions
+
+- rule: Inclusive_feedback_for_disabled_students
+  steps:
+  - intent: Inclusive_feedback_for_disabled_students
+  - action: utter_Inclusive_feedback_for_disabled_students
+
+- rule: Specific_Learning_Difficulties
+  steps:
+  - intent: Specific_Learning_Difficulties
+  - action: utter_Specific_Learning_Difficulties
+
+- rule: Disclosing_disability
+  steps:
+  - intent: Disclosing_disability
+  - action: utter_Disclosing_disability
+
+- rule: Supporting_disabled_students
+  steps:
+  - intent: Supporting_disabled_students
+  - action: utter_Supporting_disabled_students
+
+- rule: SUPPORT_FOR_DISABLED_INTERNATIONAL_STUDENTS
+  steps:
+  - intent: SUPPORT_FOR_DISABLED_INTERNATIONAL_STUDENTS
+  - action: utter_SUPPORT_FOR_DISABLED_INTERNATIONAL_STUDENTS
+
+- rule: Guidance_documents_for_staff
+  steps:
+  - intent: Guidance_documents_for_staff
+  - action: utter_Guidance_documents_for_staff
+
+- rule: Assistive_Technology
+  steps:
+  - intent: Assistive_Technology
+  - action: utter_Assistive_Technology
+
+- rule: Support_worker_team
+  steps:
+  - intent: Support_worker_team
+  - action: utter_Support_worker_team
+
+- rule: International_Welcome
+  steps:
+  - intent: International_Welcome
+  - action: utter_International_Welcome
+
+- rule: Student_Visa_Advice
+  steps:
+  - intent: Student_Visa_Advice
+  - action: utter_Student_Visa_Advice
+
+- rule: Study_Success_Resource
+  steps:
+  - intent: Study_Success_Resource
+  - action: utter_Study_Success_Resource
+
+- rule: Confidentiality,_disclosure_and_data_protection
+  steps:
+  - intent: Confidentiality,_disclosure_and_data_protection
+  - action: utter_Confidentiality,_disclosure_and_data_protection
+
+- rule: Student_Information_Service
+  steps:
+  - intent: Student_Information_Service
+  - action: utter_Student_Information_Service
+
+- rule: Academic_Personal_tutoring
+  steps:
+  - intent: Academic_Personal_tutoring
+  - action: utter_Academic_Personal_tutoring
+
+- rule: Mitigating_circumstances
+  steps:
+  - intent: Mitigating_circumstances
+  - action: utter_Mitigating_circumstances
+
+- rule: Staff-student_relationship
+  steps:
+  - intent: Staff-student_relationship
+  - action: utter_Staff-student_relationship
+
+- rule: Student_Support_Functional_Management_Team
+  steps:
+  - intent: Student_Support_Functional_Management_Team
+  - action: utter_Student_Support_Functional_Management_Team
+
+- rule: peer_mentoring
+  steps:
+  - intent: peer_mentoring
+  - action: utter_peer_mentoring
+
+- rule: Ad_hoc_assessment_invigilation_procedure_and_guide
+  steps:
+  - intent: Ad_hoc_assessment_invigilation_procedure_and_guide
+  - action: utter_Ad_hoc_assessment_invigilation_procedure_and_guide
+
+- rule: Assessment_assistants_operational_guide_taught_students
+  steps:
+  - intent: Assessment_assistants_operational_guide_taught_students
+  - action: utter_Assessment_assistants_operational_guide_taught_students
+
+- rule: Assessment_framework_taught_students
+  steps:
+  - intent: Assessment_framework_taught_students
+  - action: utter_Assessment_framework_taught_students
+
+- rule: Assessment_sub-offices_operational_guide
+  steps:
+  - intent: Assessment_sub-offices_operational_guide
+  - action: utter_Assessment_sub-offices_operational_guide
+
+- rule: Code_of_Practice_for_the_use_of_similarity_detection_software_on_electronic_submission_of_text_based_coursework
+  steps:
+  - intent: Code_of_Practice_for_the_use_of_similarity_detection_software_on_electronic_submission_of_text_based_coursework
+  - action: utter_Code_of_Practice_for_the_use_of_similarity_detection_software_on_electronic_submission_of_text_based_coursework
+
+- rule: Code_of_Practice_on_Assessment_taught_students
+  steps:
+  - intent: Code_of_Practice_on_Assessment_taught_students
+  - action: utter_Code_of_Practice_on_Assessment_taught_students
+
+- rule: Exclusion_from_assessment_taught_students
+  steps:
+  - intent: Exclusion_from_assessment_taught_students
+  - action: utter_Exclusion_from_assessment_taught_students
+
+- rule: Invigilation_operational_guide_taught_students
+  steps:
+  - intent: Invigilation_operational_guide_taught_students
+  - action: utter_Invigilation_operational_guide_taught_students
+
+- rule: Rules_for_Award_taught_students
+  steps:
+  - intent: Rules_for_Award_taught_students
+  - action: utter_Rules_for_Award_taught_students
+
+- rule: Assessment_schedule
+  steps:
+  - intent: Assessment_schedule
+  - action: utter_Assessment_schedule
+
+- rule: Assessment_timetables
+  steps:
+  - intent: Assessment_timetables
+  - action: utter_Assessment_timetables
+
+- rule: Assessment_papers
+  steps:
+  - intent: Assessment_papers
+  - action: utter_Assessment_papers
+
+- rule: On_the_day
+  steps:
+  - intent: On_the_day
+  - action: utter_On_the_day
+
+- rule: Ad_hoc_assessment_procedure
+  steps:
+  - intent: Ad_hoc_assessment_procedure
+  - action: utter_Ad_hoc_assessment_procedure
+
+- rule: Ad_hoc_assessments:_on_the_day_of_the_assessment
+  steps:
+  - intent: Ad_hoc_assessments:_on_the_day_of_the_assessment
+  - action: utter_Ad_hoc_assessments:_on_the_day_of_the_assessment
+
+- rule: Invigilator_recruitment
+  steps:
+  - intent: Invigilator_recruitment
+  - action: utter_Invigilator_recruitment
+
+- rule: Invigilator_training
+  steps:
+  - intent: Invigilator_training
+  - action: utter_Invigilator_training
+
+- rule: Coursework_submission_overview
+  steps:
+  - intent: Coursework_submission_overview
+  - action: utter_Coursework_submission_overview
+
+- rule: Coursework_extensions
+  steps:
+  - intent: Coursework_extensions
+  - action: utter_Coursework_extensions
+
+- rule: Internal_examiners
+  steps:
+  - intent: Internal_examiners
+  - action: utter_Internal_examiners
+
+- rule: External_examiners
+  steps:
+  - intent: External_examiners
+  - action: utter_External_examiners
+
+- rule: Assessment_assistants
+  steps:
+  - intent: Assessment_assistants
+  - action: utter_Assessment_assistants
+
+- rule: Resit_assessment_papers
+  steps:
+  - intent: Resit_assessment_papers
+  - action: utter_Resit_assessment_papers
+
+- rule: Resit_eligibility_and_registration
+  steps:
+  - intent: Resit_eligibility_and_registration
+  - action: utter_Resit_eligibility_and_registration
+
+- rule: Marking
+  steps:
+  - intent: Marking
+  - action: utter_Marking
+
+- rule: Marking_scales_and_non-numeric_marks
+  steps:
+  - intent: Marking_scales_and_non-numeric_marks
+  - action: utter_Marking_scales_and_non-numeric_marks
+
+- rule: Provisional_marks
+  steps:
+  - intent: Provisional_marks
+  - action: utter_Provisional_marks
+
+- rule: Final_results
+  steps:
+  - intent: Final_results
+  - action: utter_Final_results
+
+- rule: Progression
+  steps:
+  - intent: Progression
+  - action: utter_Progression
+
+- rule: First_attempts_process
+  steps:
+  - intent: First_attempts_process
+  - action: utter_First_attempts_process
+
+- rule: Regulatory_framework
+  steps:
+  - intent: Regulatory_framework
+  - action: utter_Regulatory_framework
+
+- rule: Exclusion_from_assessment
+  steps:
+  - intent: Exclusion_from_assessment
+  - action: utter_Exclusion_from_assessment
+
+- rule: Examination_process_overview
+  steps:
+  - intent: Examination_process_overview
+  - action: utter_Examination_process_overview
+
+- rule: Thesis_submission
+  steps:
+  - intent: Thesis_submission
+  - action: utter_Thesis_submission
+
+- rule: The_oral_examination_viva
+  steps:
+  - intent: The_oral_examination_viva
+  - action: utter_The_oral_examination_viva
+
+- rule: Instructions_to_examiners
+  steps:
+  - intent: Instructions_to_examiners
+  - action: utter_Instructions_to_examiners
+
+- rule: Examiner's_preliminary_report_form_before_the_viva
+  steps:
+  - intent: Examiner's_preliminary_report_form_before_the_viva
+  - action: utter_Examiner's_preliminary_report_form_before_the_viva
+
+- rule: Examiners'_joint_report_after_the_viva
+  steps:
+  - intent: Examiners'_joint_report_after_the_viva
+  - action: utter_Examiners'_joint_report_after_the_viva
+
+- rule: The_outcome_of_the_viva_oral_examination
+  steps:
+  - intent: The_outcome_of_the_viva_oral_examination
+  - action: utter_The_outcome_of_the_viva_oral_examination
+
+- rule: After_successful_oral_examination
+  steps:
+  - intent: After_successful_oral_examination
+  - action: utter_After_successful_oral_examination
+
+- rule: Graduation
+  steps:
+  - intent: Graduation
+  - action: utter_Graduation
+
+- rule: Certificates_and_transcripts
+  steps:
+  - intent: Certificates_and_transcripts
+  - action: utter_Certificates_and_transcripts
+
+- rule: Assessment_cross-institutional_functional_management_team
+  steps:
+  - intent: Assessment_cross-institutional_functional_management_team
+  - action: utter_Assessment_cross-institutional_functional_management_team
+
+- rule: Hosting_assessments_for_other_institutions
+  steps:
+  - intent: Hosting_assessments_for_other_institutions
+  - action: utter_Hosting_assessments_for_other_institutions
+
+- rule: Your_assessment_questions_answered
+  steps:
+  - intent: Your_assessment_questions_answered
+  - action: utter_Your_assessment_questions_answered
+
+- rule: Inclusive_Marking_and_Feedback
+  steps:
+  - intent: Inclusive_Marking_and_Feedback
+  - action: utter_Inclusive_Marking_and_Feedback
+
+- rule: Ad_personam_programme_variation_approval
+  steps:
+  - intent: Ad_personam_programme_variation_approval
+  - action: utter_Ad_personam_programme_variation_approval
+
+- rule: Dual_Career_Policy
+  steps:
+  - intent: Dual_Career_Policy
+  - action: utter_Dual_Career_Policy
+
+- rule: Joint_honours_programme_approval
+  steps:
+  - intent: Joint_honours_programme_approval
+  - action: utter_Joint_honours_programme_approval
+
+- rule: Leeds_Expectations_for_Assessment_and_Feedback
+  steps:
+  - intent: Leeds_Expectations_for_Assessment_and_Feedback
+  - action: utter_Leeds_Expectations_for_Assessment_and_Feedback
+
+- rule: Major_programme_amendment
+  steps:
+  - intent: Major_programme_amendment
+  - action: utter_Major_programme_amendment
+
+- rule: Module_codes
+  steps:
+  - intent: Module_codes
+  - action: utter_Module_codes
+
+- rule: Programmes_with_related_titles_taught_students
+  steps:
+  - intent: Programmes_with_related_titles_taught_students
+  - action: utter_Programmes_with_related_titles_taught_students
+
+- rule: Referencing_policy
+  steps:
+  - intent: Referencing_policy
+  - action: utter_Referencing_policy
+
+- rule: Teaching_Enhancement_Scheme
+  steps:
+  - intent: Teaching_Enhancement_Scheme
+  - action: utter_Teaching_Enhancement_Scheme
+
+- rule: Collaborative_provision_withdrawal
+  steps:
+  - intent: Collaborative_provision_withdrawal
+  - action: utter_Collaborative_provision_withdrawal
+
+- rule: Approval_process_overview
+  steps:
+  - intent: Approval_process_overview
+  - action: utter_Approval_process_overview
+
+- rule: Taught_module_approval
+  steps:
+  - intent: Taught_module_approval
+  - action: utter_Taught_module_approval
+
+- rule: Taught_programme_approval
+  steps:
+  - intent: Taught_programme_approval
+  - action: utter_Taught_programme_approval
+
+- rule: New_Programme_Approval
+  steps:
+  - intent: New_Programme_Approval
+  - action: utter_New_Programme_Approval
+
+- rule: Quality_Check
+  steps:
+  - intent: Quality_Check
+  - action: utter_Quality_Check
+
+- rule: Taught_programme_amendment_processes
+  steps:
+  - intent: Taught_programme_amendment_processes
+  - action: utter_Taught_programme_amendment_processes
+
+- rule: Taught_programme_withdrawal
+  steps:
+  - intent: Taught_programme_withdrawal
+  - action: utter_Taught_programme_withdrawal
+
+- rule: Collaborative_programme_approval
+  steps:
+  - intent: Collaborative_programme_approval
+  - action: utter_Collaborative_programme_approval
+
+- rule: Higher_and_degree_apprenticeship_approval
+  steps:
+  - intent: Higher_and_degree_apprenticeship_approval
+  - action: utter_Higher_and_degree_apprenticeship_approval
+
+- rule: Study_abroad_approval
+  steps:
+  - intent: Study_abroad_approval
+  - action: utter_Study_abroad_approval
+
+- rule: Placements_approval
+  steps:
+  - intent: Placements_approval
+  - action: utter_Placements_approval
+
+- rule: Continuing_professional_development
+  steps:
+  - intent: Continuing_professional_development
+  - action: utter_Continuing_professional_development
+
+- rule: Collaborative_provision_amendments
+  steps:
+  - intent: Collaborative_provision_amendments
+  - action: utter_Collaborative_provision_amendments
+
+- rule: Taught_Student_Education_Board
+  steps:
+  - intent: Taught_Student_Education_Board
+  - action: utter_Taught_Student_Education_Board
+
+- rule: Faculty_Taught_Student_Education_Committees
+  steps:
+  - intent: Faculty_Taught_Student_Education_Committees
+  - action: utter_Faculty_Taught_Student_Education_Committees
+
+- rule: Programme_approval_groups
+  steps:
+  - intent: Programme_approval_groups
+  - action: utter_Programme_approval_groups
+
+- rule: School_Taught_Student_Education_Committees
+  steps:
+  - intent: School_Taught_Student_Education_Committees
+  - action: utter_School_Taught_Student_Education_Committees
+
+- rule: School_Assessment_Boards
+  steps:
+  - intent: School_Assessment_Boards
+  - action: utter_School_Assessment_Boards
+
+- rule: School_Special_Circumstances_Committees
+  steps:
+  - intent: School_Special_Circumstances_Committees
+  - action: utter_School_Special_Circumstances_Committees
+
+- rule: School_Progression_and_Awards_Boards
+  steps:
+  - intent: School_Progression_and_Awards_Boards
+  - action: utter_School_Progression_and_Awards_Boards
+
+- rule: Faculty_Graduate_School_Committees
+  steps:
+  - intent: Faculty_Graduate_School_Committees
+  - action: utter_Faculty_Graduate_School_Committees
+
+- rule: Scholarships,_studentships_and_prizes
+  steps:
+  - intent: Scholarships,_studentships_and_prizes
+  - action: utter_Scholarships,_studentships_and_prizes
+
+- rule: Steering_Committee_for_Doctoral_Training_Grants
+  steps:
+  - intent: Steering_Committee_for_Doctoral_Training_Grants
+  - action: utter_Steering_Committee_for_Doctoral_Training_Grants
+
+- rule: Module_review
+  steps:
+  - intent: Module_review
+  - action: utter_Module_review
+
+- rule: Student_education_review_-_overview
+  steps:
+  - intent: Student_education_review_-_overview
+  - action: utter_Student_education_review_-_overview
+
+- rule: Module_evaluation_surveys
+  steps:
+  - intent: Module_evaluation_surveys
+  - action: utter_Module_evaluation_surveys
+
+- rule: Module_evaluation_survey_questions
+  steps:
+  - intent: Module_evaluation_survey_questions
+  - action: utter_Module_evaluation_survey_questions
+
+- rule: Programme_review
+  steps:
+  - intent: Programme_review
+  - action: utter_Programme_review
+
+- rule: Collaborative_provision_review
+  steps:
+  - intent: Collaborative_provision_review
+  - action: utter_Collaborative_provision_review
+
+- rule: Annual_School_Review_Student_Education
+  steps:
+  - intent: Annual_School_Review_Student_Education
+  - action: utter_Annual_School_Review_Student_Education
+
+- rule: Review_of_Study_Abroad/Horizon_Year_Partnerships
+  steps:
+  - intent: Review_of_Study_Abroad/Horizon_Year_Partnerships
+  - action: utter_Review_of_Study_Abroad/Horizon_Year_Partnerships
+
+- rule: Teaching_Enhancement_Scheme_overview
+  steps:
+  - intent: Teaching_Enhancement_Scheme_overview
+  - action: utter_Teaching_Enhancement_Scheme_overview
+
+- rule: Putting_the_Teaching_Enhancement_Scheme_into_action
+  steps:
+  - intent: Putting_the_Teaching_Enhancement_Scheme_into_action
+  - action: utter_Putting_the_Teaching_Enhancement_Scheme_into_action
+
+- rule: TES_case_studies
+  steps:
+  - intent: TES_case_studies
+  - action: utter_TES_case_studies
+
+- rule: Module_evaluations
+  steps:
+  - intent: Module_evaluations
+  - action: utter_Module_evaluations
+
+- rule: How_to_guide_-_Explorance_Blue
+  steps:
+  - intent: How_to_guide_-_Explorance_Blue
+  - action: utter_How_to_guide_-_Explorance_Blue
+
+- rule: Explorance_Blue_Reports
+  steps:
+  - intent: Explorance_Blue_Reports
+  - action: utter_Explorance_Blue_Reports
+
+- rule: Resources_for_Module_Leaders
+  steps:
+  - intent: Resources_for_Module_Leaders
+  - action: utter_Resources_for_Module_Leaders
+
+- rule: Guidance_on_Interpreting_and_Responding_to_Feedback
+  steps:
+  - intent: Guidance_on_Interpreting_and_Responding_to_Feedback
+  - action: utter_Guidance_on_Interpreting_and_Responding_to_Feedback
+
+- rule: How_to_guide_–_the_Student_Report
+  steps:
+  - intent: How_to_guide_–_the_Student_Report
+  - action: utter_How_to_guide_–_the_Student_Report
+
+- rule: The_Student_Report_-_Closing_the_Feedback_Loop
+  steps:
+  - intent: The_Student_Report_-_Closing_the_Feedback_Loop
+  - action: utter_The_Student_Report_-_Closing_the_Feedback_Loop
+
+- rule: Information_for_Directors_of_Student_Education
+  steps:
+  - intent: Information_for_Directors_of_Student_Education
+  - action: utter_Information_for_Directors_of_Student_Education
+
+- rule: Quality_Assurance_checklist_and_deadlines_–_2021/22_session
+  steps:
+  - intent: Quality_Assurance_checklist_and_deadlines_–_2021/22_session
+  - action: utter_Quality_Assurance_checklist_and_deadlines_–_2021/22_session
+
+- rule: School_Action_Planning_Process
+  steps:
+  - intent: School_Action_Planning_Process
+  - action: utter_School_Action_Planning_Process
+
+- rule: Quality_Assurance_Forms
+  steps:
+  - intent: Quality_Assurance_Forms
+  - action: utter_Quality_Assurance_Forms
+
+- rule: Regulatory_reporting_of_data
+  steps:
+  - intent: Regulatory_reporting_of_data
+  - action: utter_Regulatory_reporting_of_data
+
+- rule: Accreditation_of_prior_learning
+  steps:
+  - intent: Accreditation_of_prior_learning
+  - action: utter_Accreditation_of_prior_learning
+
+- rule: Declarations_of_Academic_integrity
+  steps:
+  - intent: Declarations_of_Academic_integrity
+  - action: utter_Declarations_of_Academic_integrity
+
+- rule: Examination_scripts_-_availability_to_candidates
+  steps:
+  - intent: Examination_scripts_-_availability_to_candidates
+  - action: utter_Examination_scripts_-_availability_to_candidates
+
+- rule: External_examiner_handbook_taught_students
+  steps:
+  - intent: External_examiner_handbook_taught_students
+  - action: utter_External_examiner_handbook_taught_students
+
+- rule: General_University_Disciplinary_Regulations
+  steps:
+  - intent: General_University_Disciplinary_Regulations
+  - action: utter_General_University_Disciplinary_Regulations
+
+- rule: Ill_health_exclusion
+  steps:
+  - intent: Ill_health_exclusion
+  - action: utter_Ill_health_exclusion
+
+- rule: Intellectual_property_rights
+  steps:
+  - intent: Intellectual_property_rights
+  - action: utter_Intellectual_property_rights
+
+- rule: Learning_analytics_-_strategy_and_code_of_practice
+  steps:
+  - intent: Learning_analytics_-_strategy_and_code_of_practice
+  - action: utter_Learning_analytics_-_strategy_and_code_of_practice
+
+- rule: Malpractice_in_assessments
+  steps:
+  - intent: Malpractice_in_assessments
+  - action: utter_Malpractice_in_assessments
+
+- rule: Misconduct_in_academic_research
+  steps:
+  - intent: Misconduct_in_academic_research
+  - action: utter_Misconduct_in_academic_research
+
+- rule: Penalties
+  steps:
+  - intent: Penalties
+  - action: utter_Penalties
+
+- rule: PhD_by_published_work
+  steps:
+  - intent: PhD_by_published_work
+  - action: utter_PhD_by_published_work
+
+- rule: Referred_students_postgraduate_research
+  steps:
+  - intent: Referred_students_postgraduate_research
+  - action: utter_Referred_students_postgraduate_research
+
+- rule: Reporting_criminal_offences
+  steps:
+  - intent: Reporting_criminal_offences
+  - action: utter_Reporting_criminal_offences
+
+- rule: Safeguarding_data
+  steps:
+  - intent: Safeguarding_data
+  - action: utter_Safeguarding_data
+
+- rule: Solely_or_jointly_authored_papers_within_a_thesis_submission_research_students
+  steps:
+  - intent: Solely_or_jointly_authored_papers_within_a_thesis_submission_research_students
+  - action: utter_Solely_or_jointly_authored_papers_within_a_thesis_submission_research_students
+
+- rule: Supplementary_material_within_a_thesis_submission
+  steps:
+  - intent: Supplementary_material_within_a_thesis_submission
+  - action: utter_Supplementary_material_within_a_thesis_submission
+
+- rule: Taught_postgraduate_admissions_policies
+  steps:
+  - intent: Taught_postgraduate_admissions_policies
+  - action: utter_Taught_postgraduate_admissions_policies
+
+- rule: Taught_postgraduate_tuition_fee_deposits
+  steps:
+  - intent: Taught_postgraduate_tuition_fee_deposits
+  - action: utter_Taught_postgraduate_tuition_fee_deposits
+
+- rule: Undergraduate_admissions_policies
+  steps:
+  - intent: Undergraduate_admissions_policies
+  - action: utter_Undergraduate_admissions_policies
+
+- rule: University_computer_systems_UCS_disciplinary_regulations
+  steps:
+  - intent: University_computer_systems_UCS_disciplinary_regulations
+  - action: utter_University_computer_systems_UCS_disciplinary_regulations
+
+- rule: University_residences_disciplinary_regulations
+  steps:
+  - intent: University_residences_disciplinary_regulations
+  - action: utter_University_residences_disciplinary_regulations
+
+- rule: Examiners'_preliminary_report_forms_Research
+  steps:
+  - intent: Examiners'_preliminary_report_forms_Research
+  - action: utter_Examiners'_preliminary_report_forms_Research
+
+- rule: Extension_request_form_taught_postgraduate
+  steps:
+  - intent: Extension_request_form_taught_postgraduate
+  - action: utter_Extension_request_form_taught_postgraduate
+
+- rule: External_examiner_appointment_and_changes_to_appointment
+  steps:
+  - intent: External_examiner_appointment_and_changes_to_appointment
+  - action: utter_External_examiner_appointment_and_changes_to_appointment
+
+- rule: External_Examiner_Report_Form_Taught
+  steps:
+  - intent: External_Examiner_Report_Form_Taught
+  - action: utter_External_Examiner_Report_Form_Taught
+
+- rule: External_review_of_a_new_or_amended_programme
+  steps:
+  - intent: External_review_of_a_new_or_amended_programme
+  - action: utter_External_review_of_a_new_or_amended_programme
+
+- rule: Internal_examiner_nomination_form
+  steps:
+  - intent: Internal_examiner_nomination_form
+  - action: utter_Internal_examiner_nomination_form
+
+- rule: Leavers'_forms
+  steps:
+  - intent: Leavers'_forms
+  - action: utter_Leavers'_forms
+
+- rule: New_modules
+  steps:
+  - intent: New_modules
+  - action: utter_New_modules
+
+- rule: Programme_proposal_forms_taught_programmes
+  steps:
+  - intent: Programme_proposal_forms_taught_programmes
+  - action: utter_Programme_proposal_forms_taught_programmes
+
+- rule: Programme_review_form
+  steps:
+  - intent: Programme_review_form
+  - action: utter_Programme_review_form
+
+- rule: Registration_reinstatement_form
+  steps:
+  - intent: Registration_reinstatement_form
+  - action: utter_Registration_reinstatement_form
+
+- rule: Study_Abroad_exchanges
+  steps:
+  - intent: Study_Abroad_exchanges
+  - action: utter_Study_Abroad_exchanges
+
+- rule: Thesis_deposit_form
+  steps:
+  - intent: Thesis_deposit_form
+  - action: utter_Thesis_deposit_form
+
+- rule: Withdrawing_a_taught_programme_of_study
+  steps:
+  - intent: Withdrawing_a_taught_programme_of_study
+  - action: utter_Withdrawing_a_taught_programme_of_study
+
+- rule: Book_a_room
+  steps:
+  - intent: Book_a_room
+  - action: utter_Book_a_room
+
+- rule: Room_hire
+  steps:
+  - intent: Room_hire
+  - action: utter_Room_hire
+
+- rule: Room_usage
+  steps:
+  - intent: Room_usage
+  - action: utter_Room_usage
+
+- rule: Student_Education_Bulletin
+  steps:
+  - intent: Student_Education_Bulletin
+  - action: utter_Student_Education_Bulletin
+
+- rule: Student_Education_Conference_and_Digital_Festival
+  steps:
+  - intent: Student_Education_Conference_and_Digital_Festival
+  - action: utter_Student_Education_Conference_and_Digital_Festival
+
+- rule: Student_Education_Service_news
+  steps:
+  - intent: Student_Education_Service_news
+  - action: utter_Student_Education_Service_news
+
+- rule: Teaching_timetables
+  steps:
+  - intent: Teaching_timetables
+  - action: utter_Teaching_timetables
+
+- rule: Fresh_Start_Festival_2022
+  steps:
+  - intent: Fresh_Start_Festival_2022
+  - action: utter_Fresh_Start_Festival_2022
+
+- rule: Chair_of_Examinations_Group
+  steps:
+  - intent: Chair_of_Examinations_Group
+  - action: utter_Chair_of_Examinations_Group
+
+- rule: Faculty_teams
+  steps:
+  - intent: Faculty_teams
+  - action: utter_Faculty_teams
+
+- rule: Pro-Dean_for_Student_Education
+  steps:
+  - intent: Pro-Dean_for_Student_Education
+  - action: utter_Pro-Dean_for_Student_Education
+
+- rule: Student_Opportunity_directorate
+  steps:
+  - intent: Student_Opportunity_directorate
+  - action: utter_Student_Opportunity_directorate
+
+- rule: Commitment_to_staff_development
+  steps:
+  - intent: Commitment_to_staff_development
+  - action: utter_Commitment_to_staff_development
+
+- rule: Student_Education_Service_induction_programme
+  steps:
+  - intent: Student_Education_Service_induction_programme
+  - action: utter_Student_Education_Service_induction_programme
+
+- rule: Training_and_Development
+  steps:
+  - intent: Training_and_Development
+  - action: utter_Training_and_Development
+
+- rule: Lean_Ways_of_Working
+  steps:
+  - intent: Lean_Ways_of_Working
+  - action: utter_Lean_Ways_of_Working
+
+- rule: Learning_resources
+  steps:
+  - intent: Learning_resources
+  - action: utter_Learning_resources
+
+- rule: Academic_Roles_Relating_to_Student_Education
+  steps:
+  - intent: Academic_Roles_Relating_to_Student_Education
+  - action: utter_Academic_Roles_Relating_to_Student_Education
+
+- rule: Functional_management_teams
+  steps:
+  - intent: Functional_management_teams
+  - action: utter_Functional_management_teams
+
+- rule: Managing_and_analysing_our_websites
+  steps:
+  - intent: Managing_and_analysing_our_websites
+  - action: utter_Managing_and_analysing_our_websites
+
+- rule: Service_Culture_Statement
+  steps:
+  - intent: Service_Culture_Statement
+  - action: utter_Service_Culture_Statement
+
+- rule: SES_Principles_for_Ways_of_Working
+  steps:
+  - intent: SES_Principles_for_Ways_of_Working
+  - action: utter_SES_Principles_for_Ways_of_Working
+
+- rule: Staff_Wellbeing
+  steps:
+  - intent: Staff_Wellbeing
+  - action: utter_Staff_Wellbeing
+
+- rule: Student_Education_handbook
+  steps:
+  - intent: Student_Education_handbook
+  - action: utter_Student_Education_handbook
+
+- rule: Student_Education_Service_aims
+  steps:
+  - intent: Student_Education_Service_aims
+  - action: utter_Student_Education_Service_aims
+

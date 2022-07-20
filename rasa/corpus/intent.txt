@@ -1,0 +1,2012 @@
+- intent: Accreditation_taught_programmes
+  examples: |
+   - Accreditation (taught programmes)
+
+- intent: Attendance_code_of_practice_taught_students
+  examples: |
+   - Attendance code of practice (taught students)
+
+- intent: Audio_and_visual_in_student_education
+  examples: |
+   - Audio and visual in student education
+
+- intent: Blended_learning_strategy
+  examples: |
+   - Blended learning strategy
+
+- intent: Committees_of_the_University
+  examples: |
+   - Committees of the University
+
+- intent: Data_protection
+  examples: |
+   - Data protection
+
+- intent: Distance_learning_taught_students
+  examples: |
+   - Distance learning (taught students)
+
+- intent: Engagement_monitoring_attendance
+  examples: |
+   - Engagement monitoring (attendance)
+
+- intent: Equality_and_inclusion
+  examples: |
+   - Equality and inclusion
+
+- intent: Joint_honours_definition_taught_students
+  examples: |
+   - Joint honours definition (taught students)
+
+- intent: Open_Educational_Resources_taught_students
+  examples: |
+   - Open Educational Resources (taught students)
+
+- intent: Ordinances
+  examples: |
+   - Ordinances
+
+- intent: Programme_title_changes_taught_students
+  examples: |
+   - Programme title changes (taught students)
+
+- intent: Religious_observance
+  examples: |
+   - Religious observance
+
+- intent: Risk_assessment_of_fieldwork
+  examples: |
+   - Risk assessment of fieldwork
+
+- intent: Special_Cases_Committee
+  examples: |
+   - Special Cases Committee
+
+- intent: Student_Staff_Partnership_Forums
+  examples: |
+   - Student Staff Partnership Forums
+
+- intent: Supernumerary_modules
+  examples: |
+   - Supernumerary modules
+
+- intent: Timetabling_and_central_space_management
+  examples: |
+   - Timetabling and central space management
+
+- intent: Timetabling_Policies_and_Guidance_Documents
+  examples: |
+   - Timetabling Policies and Guidance Documents
+
+- intent: Registration
+  examples: |
+   - Registration
+
+- intent: Module_Enrolment
+  examples: |
+   - Module Enrolment
+
+- intent: Attendance_and_engagement
+  examples: |
+   - Attendance and engagement
+
+- intent: Attendance_code_of_practice_taught_students
+  examples: |
+   - Attendance code of practice (taught students)
+
+- intent: Registration_and_tuition_payment
+  examples: |
+   - Registration and tuition payment
+
+- intent: Change_of_module
+  examples: |
+   - Change of module
+
+- intent: Change_of_programme
+  examples: |
+   - Change of programme 
+
+- intent: Extensions_to_study_period_taught_postgraduate
+  examples: |
+   - Extensions to study period (taught postgraduate)
+
+- intent: Supernumerary_modules
+  examples: |
+   - Supernumerary modules
+
+- intent: School_Timetabler_Contact_List
+  examples: |
+   - School Timetabler Contact List
+
+- intent: How_to_Access_your_Online_Timetable_and_Classlists
+  examples: |
+   - How to Access your Online Timetable and Classlists
+
+- intent: When_you_should_contact_your_School_Timetabler
+  examples: |
+   - When you should contact your School Timetabler
+
+- intent: Frequently_Asked_Questions
+  examples: |
+   - Frequently Asked Questions
+
+- intent: Teaching_Week_Patterns
+  examples: |
+   - Teaching Week Patterns
+
+- intent: University_Key_Dates
+  examples: |
+   - University Key Dates
+
+- intent: Guidance_for_Teaching_Staff:_The_Timetable_and_Delivery_Methods
+  examples: |
+   - Guidance for Teaching Staff: The Timetable and Delivery Methods
+
+- intent: Room_and_Building_Information
+  examples: |
+   - Room and Building Information
+
+- intent: Timetable_Views
+  examples: |
+   - Timetable Views
+
+- intent: Live_Streaming
+  examples: |
+   - Live Streaming
+
+- intent: Room_Bookings_for_Ad-Hoc_Activities
+  examples: |
+   - Room Bookings for Ad-Hoc Activities
+
+- intent: Timetabling_Policies_and_Guidance_Documents
+  examples: |
+   - Timetabling Policies and Guidance Documents
+
+- intent: When_a_student_wishes_to_leave
+  examples: |
+   - When a student wishes to leave
+
+- intent: Temporary_leavers
+  examples: |
+   - Temporary leavers
+
+- intent: Permanent_leavers
+  examples: |
+   - Permanent leavers
+
+- intent: Presumed_leavers
+  examples: |
+   - Presumed leavers
+
+- intent: Fees_for_leavers
+  examples: |
+   - Fees for leavers
+
+- intent: Funding_for_disabled_students
+  examples: |
+   - Funding for disabled students
+
+- intent: Tuition_fee_Scholarships_and_awards
+  examples: |
+   - Tuition fee Scholarships and awards 
+
+- intent: Maintenance_awards
+  examples: |
+   - Maintenance awards
+
+- intent: Undergraduate_research_and_leadership_scholarships
+  examples: |
+   - Undergraduate research and leadership scholarships
+
+- intent: Leeds_Bursary
+  examples: |
+   - Leeds Bursary
+
+- intent: University_prizes
+  examples: |
+   - University prizes
+
+- intent: Alumni_bursary
+  examples: |
+   - Alumni bursary
+
+- intent: Authorised_signatories
+  examples: |
+   - Authorised signatories
+
+- intent: Registration_and_tuition_payment
+  examples: |
+   - Registration and tuition payment
+
+- intent: Late_payment_charges
+  examples: |
+   - Late payment charges
+
+- intent: Fees_for_leavers
+  examples: |
+   - Fees for leavers
+
+- intent: Tuition_fee_Scholarships_and_awards
+  examples: |
+   - Tuition fee Scholarships and awards 
+
+- intent: Tuition_Payment_for_Sponsored_students
+  examples: |
+   - Tuition Payment for Sponsored students
+
+- intent: Reduced_fees_and_returners
+  examples: |
+   - Reduced fees and returners
+
+- intent: Authorised_signatories
+  examples: |
+   - Authorised signatories
+
+- intent: Financial_difficulties
+  examples: |
+   - Financial difficulties
+
+- intent: Reduced_fees_and_returners
+  examples: |
+   - Reduced fees and returners
+
+- intent: Regulations,_codes,_policies_and_procedures_for_postgraduate_research
+  examples: |
+   - Regulations, codes, policies and procedures for postgraduate research
+
+- intent: Research_degree_candidatures_code_of_practice
+  examples: |
+   - Research degree candidatures code of practice
+
+- intent: Professional_Doctorate
+  examples: |
+   - Professional Doctorate
+
+- intent: Integrated_PhD
+  examples: |
+   - Integrated PhD
+
+- intent: Distance_learning
+  examples: |
+   - Distance learning
+
+- intent: Practice-led_PhD
+  examples: |
+   - Practice-led PhD
+
+- intent: Dual_PhD
+  examples: |
+   - Dual PhD
+
+- intent: Joint_PhD
+  examples: |
+   - Joint PhD
+
+- intent: Split_site_PhD
+  examples: |
+   - Split site PhD
+
+- intent: Reduced_time_at_Leeds_for_postgraduate_researchers
+  examples: |
+   - Reduced time at Leeds for postgraduate researchers
+
+- intent: Examiners'_joint_report_forms_postgraduate_research
+  examples: |
+   - Examiners' joint report forms (postgraduate research)
+
+- intent: Research_degree_examiners:_additional_information
+  examples: |
+   - Research degree examiners: additional information
+
+- intent: Thesis_titles_research_students
+  examples: |
+   - Thesis titles (research students)
+
+- intent: Video_streaming_for_a_final_research_degree_oral_examination_research_students
+  examples: |
+   - Video streaming for a final research degree oral examination (research students)
+
+- intent: Applications_for_postgraduate_research_degrees
+  examples: |
+   - Applications for postgraduate research degrees
+
+- intent: Conditions_of_acceptance_for_postgraduate_researcher_applicants
+  examples: |
+   - Conditions of acceptance for postgraduate researcher applicants
+
+- intent: English_language_requirements_for_postgraduate_researchers
+  examples: |
+   - English language requirements for postgraduate researchers 
+
+- intent: Exceptional_cases_for_postgraduate_research_admission
+  examples: |
+   - Exceptional cases for postgraduate research admission
+
+- intent: Induction_for_postgraduate_researchers
+  examples: |
+   - Induction for postgraduate researchers
+
+- intent: Maintenance_awards
+  examples: |
+   - Maintenance awards
+
+- intent: Postgraduate_researcher_-_admission_start_dates/changes_of_start_date
+  examples: |
+   - Postgraduate researcher - admission start dates/changes of start date
+
+- intent: Postgraduate_researchers_enrolling_on_taught_modules
+  examples: |
+   - Postgraduate researchers enrolling on taught modules
+
+- intent: References_for_research_degree_applications
+  examples: |
+   - References for research degree applications
+
+- intent: Research_postgraduate_admissions_policy
+  examples: |
+   - Research postgraduate admissions policy
+
+- intent: Research_postgraduate_applicants_awaiting_master's_degree_results
+  examples: |
+   - Research postgraduate applicants awaiting master's degree results 
+
+- intent: Transfers_in_-_postgraduate_researchers
+  examples: |
+   - Transfers in - postgraduate researchers
+
+- intent: Visiting_postgraduate_researchers
+  examples: |
+   - Visiting postgraduate researchers
+
+- intent: GRAD
+  examples: |
+   - GRAD
+
+- intent: Progress_and_monitoring_-_postgraduate_researchers
+  examples: |
+   - Progress and monitoring - postgraduate researchers
+
+- intent: Transfer_to_doctoral_study
+  examples: |
+   - Transfer to doctoral study
+
+- intent: Examinations_Group
+  examples: |
+   - Examinations Group
+
+- intent: Faculty_Graduate_School_Committees_2021/2022_Terms_of_Reference
+  examples: |
+   - Faculty Graduate School Committees 2021/2022 Terms of Reference
+
+- intent: Graduate_Board
+  examples: |
+   - Graduate Board
+
+- intent: Higher_Doctorates
+  examples: |
+   - Higher Doctorates
+
+- intent: PGR_Programmes_and_Quality_Group
+  examples: |
+   - PGR Programmes and Quality Group
+
+- intent: PGR_Recruitment_Group
+  examples: |
+   - PGR Recruitment Group
+
+- intent: Postgraduate_Researcher_Development_Steering_Group
+  examples: |
+   - Postgraduate Researcher Development Steering Group 
+
+- intent: Head_of_Graduate_School
+  examples: |
+   - Head of Graduate School 
+
+- intent: PGR_&_Operations_-_Admissions
+  examples: |
+   - PGR & Operations - Admissions
+
+- intent: What_are_the_catalogues?
+  examples: |
+   - What are the catalogues?
+
+- intent: Catalogue_publication_dates
+  examples: |
+   - Catalogue publication dates
+
+- intent: Catalogue_contacts
+  examples: |
+   - Catalogue contacts
+
+- intent: Catalogue_training_links
+  examples: |
+   - Catalogue training links
+
+- intent: Student_handbooks
+  examples: |
+   - Student handbooks
+
+- intent: Programme_support_management_team
+  examples: |
+   - Programme support management team
+
+- intent: Accessible_written_materials
+  examples: |
+   - Accessible written materials
+
+- intent: Timelines_for_programmes_and_assessment
+  examples: |
+   - Timelines for programmes and assessment
+
+- intent: Communicating_with_students_and_postgraduate_researchers.
+  examples: |
+   - Communicating with students and postgraduate researchers.
+
+- intent: Ad_personam_and_ad_hoc_programme_variation_processes
+  examples: |
+   - Ad personam and ad hoc programme variation processes
+
+- intent: Funding_for_disabled_students
+  examples: |
+   - Funding for disabled students
+
+- intent: Tuition_fee_Scholarships_and_awards
+  examples: |
+   - Tuition fee Scholarships and awards 
+
+- intent: Maintenance_awards
+  examples: |
+   - Maintenance awards
+
+- intent: Undergraduate_research_and_leadership_scholarships
+  examples: |
+   - Undergraduate research and leadership scholarships
+
+- intent: Leeds_Bursary
+  examples: |
+   - Leeds Bursary
+
+- intent: University_prizes
+  examples: |
+   - University prizes
+
+- intent: Alumni_bursary
+  examples: |
+   - Alumni bursary
+
+- intent: Authorised_signatories
+  examples: |
+   - Authorised signatories
+
+- intent: Registration_and_tuition_payment
+  examples: |
+   - Registration and tuition payment
+
+- intent: Late_payment_charges
+  examples: |
+   - Late payment charges
+
+- intent: Fees_for_leavers
+  examples: |
+   - Fees for leavers
+
+- intent: Tuition_fee_Scholarships_and_awards
+  examples: |
+   - Tuition fee Scholarships and awards 
+
+- intent: Tuition_Payment_for_Sponsored_students
+  examples: |
+   - Tuition Payment for Sponsored students
+
+- intent: Reduced_fees_and_returners
+  examples: |
+   - Reduced fees and returners
+
+- intent: Authorised_signatories
+  examples: |
+   - Authorised signatories
+
+- intent: Financial_difficulties
+  examples: |
+   - Financial difficulties
+
+- intent: Reduced_fees_and_returners
+  examples: |
+   - Reduced fees and returners
+
+- intent: Equality_and_inclusion
+  examples: |
+   - Equality and inclusion
+
+- intent: Language_attainment_guidelines_for_study_or_work_abroad
+  examples: |
+   - Language attainment guidelines for study or work abroad
+
+- intent: Placement_and_study_abroad_-_student_support
+  examples: |
+   - Placement and study abroad - student support
+
+- intent: Placement_leaders_handbook
+  examples: |
+   - Placement leaders handbook 
+
+- intent: Creating_new_exchanges
+  examples: |
+   - Creating new exchanges
+
+- intent: Study_abroad_coordinators
+  examples: |
+   - Study abroad coordinators
+
+- intent: Coordinator_workshops
+  examples: |
+   - Coordinator workshops
+
+- intent: Leeds_International_Summer_School
+  examples: |
+   - Leeds International Summer School
+
+- intent: What_the_Careers_Centre_offers
+  examples: |
+   - What the Careers Centre offers
+
+- intent: Work-related_experience
+  examples: |
+   - Work-related experience
+
+- intent: Enterprise
+  examples: |
+   - Enterprise
+
+- intent: Joblink
+  examples: |
+   - Joblink
+
+- intent: Employability_network
+  examples: |
+   - Employability network
+
+- intent: Placement_leaders_forum
+  examples: |
+   - Placement leaders forum
+
+- intent: Key_Teams_for_International_Students
+  examples: |
+   - Key Teams for International Students
+
+- intent: Global_Community
+  examples: |
+   - Global Community
+
+- intent: Global_Cafe_and_Online_Socials
+  examples: |
+   - Global Cafe and Online Socials
+
+- intent: About_the_Leeds_Curriculum
+  examples: |
+   - About the Leeds Curriculum
+
+- intent: Broadening_education_choices
+  examples: |
+   - Broadening education choices
+
+- intent: Core_Programme_Threads
+  examples: |
+   - Core Programme Threads
+
+- intent: Enhancing_teaching_and_research-based_learning
+  examples: |
+   - Enhancing teaching and research-based learning
+
+- intent: Final_year_project_and_assessment
+  examples: |
+   - Final year project and assessment
+
+- intent: Educational_Engagement
+  examples: |
+   - Educational Engagement
+
+- intent: Lifelong_learning_centre
+  examples: |
+   - Lifelong learning centre
+
+- intent: Student_Success_at_Leeds
+  examples: |
+   - Student Success at Leeds
+
+- intent: The_Student_Success_Team
+  examples: |
+   - The Student Success Team
+
+- intent: The_Plus_Programme
+  examples: |
+   - The Plus Programme
+
+- intent: LITE_and_Decolonising_the_Curriculum_at_Leeds
+  examples: |
+   - LITE and Decolonising the Curriculum at Leeds
+
+- intent: Access_and_Student_Success_Strategy
+  examples: |
+   - Access and Student Success Strategy
+
+- intent: Access_and_Student_Success_Related_Reports
+  examples: |
+   - Access and Student Success Related Reports
+
+- intent: Languages_for_All
+  examples: |
+   - Languages for All
+
+- intent: Volunteering
+  examples: |
+   - Volunteering
+
+- intent: LeedsforLife
+  examples: |
+   - LeedsforLife
+
+- intent: Students_into_Schools
+  examples: |
+   - Students into Schools
+
+- intent: Student_societies
+  examples: |
+   - Student societies
+
+- intent: Student_reps
+  examples: |
+   - Student reps
+
+- intent: Undergraduate_research_and_leadership_scholarships
+  examples: |
+   - Undergraduate research and leadership scholarships
+
+- intent: A_quick_guide_to_inputting_registers_into_Faculty_Services
+  examples: |
+   - A quick guide to inputting registers into Faculty Services
+
+- intent: Appeals_taught_students
+  examples: |
+   - Appeals (taught students)
+
+- intent: Attendance_code_of_practice_taught_students
+  examples: |
+   - Attendance code of practice (taught students)
+
+- intent: Cheating,_plagiarism,_fraudulent_or_fabricated_coursework,_and_malpractice_in_University_assessments_taught_students
+  examples: |
+   - Cheating, plagiarism, fraudulent or fabricated coursework, and malpractice in University assessments (taught students)
+
+- intent: Criminal_records
+  examples: |
+   - Criminal records
+
+- intent: Data_protection
+  examples: |
+   - Data protection
+
+- intent: Dignity_and_mutual_respect
+  examples: |
+   - Dignity and mutual respect
+
+- intent: Disabled_postgraduate_research_students:_guide_for_examiners
+  examples: |
+   - Disabled postgraduate research students: guide for examiners
+
+- intent: Engagement_monitoring_attendance
+  examples: |
+   - Engagement monitoring (attendance)
+
+- intent: Engagement_monitoring_FAQs
+  examples: |
+   - Engagement monitoring FAQs
+
+- intent: Equality_and_inclusion
+  examples: |
+   - Equality and inclusion
+
+- intent: Fitness_to_practice
+  examples: |
+   - Fitness to practice
+
+- intent: Laptop_loans_for_students
+  examples: |
+   - Laptop loans for students
+
+- intent: Mitigating_circumstances_letters_and_letters_of_attendance_at_counselling
+  examples: |
+   - Mitigating circumstances letters and letters of attendance at counselling
+
+- intent: Muslim_prayer_room
+  examples: |
+   - Muslim prayer room
+
+- intent: Ordinances
+  examples: |
+   - Ordinances
+
+- intent: Parents_or_carers
+  examples: |
+   - Parents or carers
+
+- intent: Peer_mentoring_policy
+  examples: |
+   - Peer mentoring policy
+
+- intent: Personal_tutorials
+  examples: |
+   - Personal tutorials
+
+- intent: Placement_and_study_abroad_-_student_support
+  examples: |
+   - Placement and study abroad - student support
+
+- intent: Pregnant_students_and_students_with_very_young_children
+  examples: |
+   - Pregnant students and students with very young children
+
+- intent: Proof-reading_taught_components
+  examples: |
+   - Proof-reading (taught components)
+
+- intent: Referred_students_taught
+  examples: |
+   - Referred students (taught)
+
+- intent: Religious_observance
+  examples: |
+   - Religious observance
+
+- intent: Risk_assessment_of_fieldwork
+  examples: |
+   - Risk assessment of fieldwork
+
+- intent: Student_complaints
+  examples: |
+   - Student complaints
+
+- intent: Student_Staff_Partnership_Forums
+  examples: |
+   - Student Staff Partnership Forums
+
+- intent: Unsatisfactory_students_procedure_taught_students
+  examples: |
+   - Unsatisfactory students procedure (taught students)
+
+- intent: Financial_difficulties
+  examples: |
+   - Financial difficulties
+
+- intent: Students_in_crisis
+  examples: |
+   - Students in crisis
+
+- intent: Disability_Contacts_in_Schools
+  examples: |
+   - Disability Contacts in Schools
+
+- intent: Key_Teams_for_International_Students
+  examples: |
+   - Key Teams for International Students
+
+- intent: Student_Counselling_and_wellbeing
+  examples: |
+   - Student Counselling and wellbeing
+
+- intent: Student_mental_health_team
+  examples: |
+   - Student mental health team
+
+- intent: Support_services_across_the_University
+  examples: |
+   - Support services across the University
+
+- intent: Supporting_the_Wellbeing_of_Students
+  examples: |
+   - Supporting the Wellbeing of Students
+
+- intent: Change_of_name,_title_and/or_gender
+  examples: |
+   - Change of name, title and/or gender
+
+- intent: Pregnancy
+  examples: |
+   - Pregnancy
+
+- intent: Religious_observance
+  examples: |
+   - Religious observance
+
+- intent: Student_parents
+  examples: |
+   - Student parents
+
+- intent: Bereavement
+  examples: |
+   - Bereavement
+
+- intent: Temporary_disability
+  examples: |
+   - Temporary disability
+
+- intent: Extensions_to_study_period_taught_postgraduate
+  examples: |
+   - Extensions to study period (taught postgraduate)
+
+- intent: Caring_responsibilites
+  examples: |
+   - Caring responsibilites
+
+- intent: Autism_Spectrum_conditions
+  examples: |
+   - Autism Spectrum conditions
+
+- intent: Inclusive_feedback_for_disabled_students
+  examples: |
+   - Inclusive feedback for disabled students
+
+- intent: Specific_Learning_Difficulties
+  examples: |
+   - Specific Learning Difficulties 
+
+- intent: Disclosing_disability
+  examples: |
+   - Disclosing disability
+
+- intent: Disability_Contacts_in_Schools
+  examples: |
+   - Disability Contacts in Schools
+
+- intent: Funding_for_disabled_students
+  examples: |
+   - Funding for disabled students
+
+- intent: Supporting_disabled_students
+  examples: |
+   - Supporting disabled students
+
+- intent: SUPPORT_FOR_DISABLED_INTERNATIONAL_STUDENTS
+  examples: |
+   - SUPPORT FOR DISABLED INTERNATIONAL STUDENTS
+
+- intent: Accessible_written_materials
+  examples: |
+   - Accessible written materials
+
+- intent: Guidance_documents_for_staff
+  examples: |
+   - Guidance documents for staff
+
+- intent: Assistive_Technology
+  examples: |
+   - Assistive Technology 
+
+- intent: Support_worker_team
+  examples: |
+   - Support worker team
+
+- intent: Key_Teams_for_International_Students
+  examples: |
+   - Key Teams for International Students
+
+- intent: International_Welcome
+  examples: |
+   - International Welcome
+
+- intent: Student_Visa_Advice
+  examples: |
+   - Student Visa Advice
+
+- intent: Study_Success_Resource
+  examples: |
+   - Study Success Resource
+
+- intent: International_Welcome
+  examples: |
+   - International Welcome
+
+- intent: Confidentiality,_disclosure_and_data_protection
+  examples: |
+   - Confidentiality, disclosure and data protection
+
+- intent: Student_Information_Service
+  examples: |
+   - Student Information Service
+
+- intent: Induction_for_postgraduate_researchers
+  examples: |
+   - Induction for postgraduate researchers
+
+- intent: Academic_Personal_tutoring
+  examples: |
+   - Academic Personal tutoring
+
+- intent: Mitigating_circumstances
+  examples: |
+   - Mitigating circumstances
+
+- intent: Staff-student_relationship
+  examples: |
+   - Staff-student relationship
+
+- intent: Student_Support_Functional_Management_Team
+  examples: |
+   - Student Support Functional Management Team
+
+- intent: peer_mentoring
+  examples: |
+   - peer mentoring
+
+- intent: Ad_hoc_assessment_invigilation_procedure_and_guide
+  examples: |
+   - Ad hoc assessment invigilation procedure and guide
+
+- intent: Assessment_assistants_operational_guide_taught_students
+  examples: |
+   - Assessment assistants operational guide (taught students)
+
+- intent: Assessment_framework_taught_students
+  examples: |
+   - Assessment framework (taught students)
+
+- intent: Assessment_sub-offices_operational_guide
+  examples: |
+   - Assessment sub-offices operational guide
+
+- intent: Cheating,_plagiarism,_fraudulent_or_fabricated_coursework,_and_malpractice_in_University_assessments_taught_students
+  examples: |
+   - Cheating, plagiarism, fraudulent or fabricated coursework, and malpractice in University assessments (taught students)
+
+- intent: Code_of_Practice_for_the_use_of_similarity_detection_software_on_electronic_submission_of_text_based_coursework
+  examples: |
+   - Code of Practice for the use of similarity detection software on electronic submission of text based coursework
+
+- intent: Code_of_Practice_on_Assessment_taught_students
+  examples: |
+   - Code of Practice on Assessment (taught students)
+
+- intent: Equality_and_inclusion
+  examples: |
+   - Equality and inclusion
+
+- intent: Exclusion_from_assessment_taught_students
+  examples: |
+   - Exclusion from assessment (taught students)
+
+- intent: Invigilation_operational_guide_taught_students
+  examples: |
+   - Invigilation operational guide (taught students)
+
+- intent: Mitigating_circumstances_letters_and_letters_of_attendance_at_counselling
+  examples: |
+   - Mitigating circumstances letters and letters of attendance at counselling
+
+- intent: Ordinances
+  examples: |
+   - Ordinances
+
+- intent: Proof-reading_taught_components
+  examples: |
+   - Proof-reading (taught components)
+
+- intent: Referred_students_taught
+  examples: |
+   - Referred students (taught)
+
+- intent: Religious_observance
+  examples: |
+   - Religious observance
+
+- intent: Rules_for_Award_taught_students
+  examples: |
+   - Rules for Award (taught students)
+
+- intent: Special_Cases_Committee
+  examples: |
+   - Special Cases Committee
+
+- intent: Assessment_schedule
+  examples: |
+   - Assessment schedule
+
+- intent: Assessment_timetables
+  examples: |
+   - Assessment timetables
+
+- intent: Assessment_papers
+  examples: |
+   - Assessment papers
+
+- intent: On_the_day
+  examples: |
+   - On the day
+
+- intent: Ad_hoc_assessment_procedure
+  examples: |
+   - Ad hoc assessment procedure
+
+- intent: Ad_hoc_assessments:_on_the_day_of_the_assessment
+  examples: |
+   - Ad hoc assessments: on the day of the assessment
+
+- intent: Invigilator_recruitment
+  examples: |
+   - Invigilator recruitment
+
+- intent: Invigilator_training
+  examples: |
+   - Invigilator training
+
+- intent: Coursework_submission_overview
+  examples: |
+   - Coursework submission overview
+
+- intent: Proof-reading_taught_components
+  examples: |
+   - Proof-reading (taught components)
+
+- intent: Cheating,_plagiarism,_fraudulent_or_fabricated_coursework,_and_malpractice_in_University_assessments_taught_students
+  examples: |
+   - Cheating, plagiarism, fraudulent or fabricated coursework, and malpractice in University assessments (taught students)
+
+- intent: Coursework_extensions
+  examples: |
+   - Coursework extensions
+
+- intent: Internal_examiners
+  examples: |
+   - Internal examiners
+
+- intent: External_examiners
+  examples: |
+   - External examiners
+
+- intent: Assessment_assistants
+  examples: |
+   - Assessment assistants
+
+- intent: Resit_assessment_papers
+  examples: |
+   - Resit assessment papers
+
+- intent: Resit_eligibility_and_registration
+  examples: |
+   - Resit eligibility and registration
+
+- intent: Marking
+  examples: |
+   - Marking
+
+- intent: Marking_scales_and_non-numeric_marks
+  examples: |
+   - Marking scales and non-numeric marks
+
+- intent: Provisional_marks
+  examples: |
+   - Provisional marks
+
+- intent: Final_results
+  examples: |
+   - Final results
+
+- intent: Progression
+  examples: |
+   - Progression
+
+- intent: Final_results
+  examples: |
+   - Final results
+
+- intent: First_attempts_process
+  examples: |
+   - First attempts process
+
+- intent: Invigilator_training
+  examples: |
+   - Invigilator training
+
+- intent: Provisional_marks
+  examples: |
+   - Provisional marks
+
+- intent: Temporary_disability
+  examples: |
+   - Temporary disability
+
+- intent: Mitigating_circumstances
+  examples: |
+   - Mitigating circumstances
+
+- intent: Religious_observance
+  examples: |
+   - Religious observance
+
+- intent: Code_of_Practice_on_Assessment_taught_students
+  examples: |
+   - Code of Practice on Assessment (taught students)
+
+- intent: Regulatory_framework
+  examples: |
+   - Regulatory framework
+
+- intent: Exclusion_from_assessment
+  examples: |
+   - Exclusion from assessment
+
+- intent: Examination_process_overview
+  examples: |
+   - Examination process overview
+
+- intent: Thesis_submission
+  examples: |
+   - Thesis submission
+
+- intent: The_oral_examination_viva
+  examples: |
+   - The oral examination (viva)
+
+- intent: Instructions_to_examiners
+  examples: |
+   - Instructions to examiners
+
+- intent: Examiner's_preliminary_report_form_before_the_viva
+  examples: |
+   - Examiner's preliminary report form (before the viva)
+
+- intent: Examiners'_joint_report_after_the_viva
+  examples: |
+   - Examiners' joint report after the viva
+
+- intent: The_outcome_of_the_viva_oral_examination
+  examples: |
+   - The outcome of the viva (oral examination)
+
+- intent: After_successful_oral_examination
+  examples: |
+   - After successful oral examination
+
+- intent: Examinations_Group
+  examples: |
+   - Examinations Group
+
+- intent: Graduation
+  examples: |
+   - Graduation
+
+- intent: Certificates_and_transcripts
+  examples: |
+   - Certificates and transcripts
+
+- intent: Assessment_cross-institutional_functional_management_team
+  examples: |
+   - Assessment cross-institutional functional management team
+
+- intent: Hosting_assessments_for_other_institutions
+  examples: |
+   - Hosting assessments for other institutions
+
+- intent: Your_assessment_questions_answered
+  examples: |
+   - Your assessment questions answered
+
+- intent: Inclusive_Marking_and_Feedback
+  examples: |
+   - Inclusive Marking and Feedback
+
+- intent: Accreditation_taught_programmes
+  examples: |
+   - Accreditation (taught programmes)
+
+- intent: Ad_personam_programme_variation_approval
+  examples: |
+   - Ad personam programme variation approval
+
+- intent: Distance_learning_taught_students
+  examples: |
+   - Distance learning (taught students)
+
+- intent: Dual_Career_Policy
+  examples: |
+   - Dual Career Policy
+
+- intent: Equality_and_inclusion
+  examples: |
+   - Equality and inclusion
+
+- intent: Joint_honours_definition_taught_students
+  examples: |
+   - Joint honours definition (taught students)
+
+- intent: Joint_honours_programme_approval
+  examples: |
+   - Joint honours programme approval
+
+- intent: Leeds_Expectations_for_Assessment_and_Feedback
+  examples: |
+   - Leeds Expectations for Assessment and Feedback 
+
+- intent: Major_programme_amendment
+  examples: |
+   - Major programme amendment
+
+- intent: Module_codes
+  examples: |
+   - Module codes
+
+- intent: Open_Educational_Resources_taught_students
+  examples: |
+   - Open Educational Resources (taught students)
+
+- intent: Ordinances
+  examples: |
+   - Ordinances
+
+- intent: Programme_title_changes_taught_students
+  examples: |
+   - Programme title changes (taught students)
+
+- intent: Programmes_with_related_titles_taught_students
+  examples: |
+   - Programmes with related titles (taught students)
+
+- intent: Referencing_policy
+  examples: |
+   - Referencing policy
+
+- intent: Student_Staff_Partnership_Forums
+  examples: |
+   - Student Staff Partnership Forums
+
+- intent: Teaching_Enhancement_Scheme
+  examples: |
+   - Teaching Enhancement Scheme
+
+- intent: Collaborative_provision_withdrawal
+  examples: |
+   - Collaborative provision withdrawal
+
+- intent: Approval_process_overview
+  examples: |
+   - Approval process overview
+
+- intent: Taught_module_approval
+  examples: |
+   - Taught module approval
+
+- intent: Taught_programme_approval
+  examples: |
+   - Taught programme approval
+
+- intent: New_Programme_Approval
+  examples: |
+   - New Programme Approval
+
+- intent: Quality_Check
+  examples: |
+   - Quality Check
+
+- intent: Taught_programme_amendment_processes
+  examples: |
+   - Taught programme amendment processes
+
+- intent: Taught_programme_withdrawal
+  examples: |
+   - Taught programme withdrawal
+
+- intent: Collaborative_programme_approval
+  examples: |
+   - Collaborative programme approval
+
+- intent: Higher_and_degree_apprenticeship_approval
+  examples: |
+   - Higher and degree apprenticeship approval
+
+- intent: Joint_honours_programme_approval
+  examples: |
+   - Joint honours programme approval
+
+- intent: Study_abroad_approval
+  examples: |
+   - Study abroad approval
+
+- intent: Placements_approval
+  examples: |
+   - Placements approval
+
+- intent: Continuing_professional_development
+  examples: |
+   - Continuing professional development
+
+- intent: Ad_personam_and_ad_hoc_programme_variation_processes
+  examples: |
+   - Ad personam and ad hoc programme variation processes
+
+- intent: Reduced_time_at_Leeds_for_postgraduate_researchers
+  examples: |
+   - Reduced time at Leeds for postgraduate researchers
+
+- intent: Collaborative_provision_amendments
+  examples: |
+   - Collaborative provision amendments
+
+- intent: Taught_Student_Education_Board
+  examples: |
+   - Taught Student Education Board
+
+- intent: Faculty_Taught_Student_Education_Committees
+  examples: |
+   - Faculty Taught Student Education Committees
+
+- intent: Programme_approval_groups
+  examples: |
+   - Programme approval groups
+
+- intent: School_Taught_Student_Education_Committees
+  examples: |
+   - School Taught Student Education Committees
+
+- intent: School_Assessment_Boards
+  examples: |
+   - School Assessment Boards
+
+- intent: School_Special_Circumstances_Committees
+  examples: |
+   - School Special Circumstances Committees
+
+- intent: School_Progression_and_Awards_Boards
+  examples: |
+   - School Progression and Awards Boards
+
+- intent: Graduate_Board
+  examples: |
+   - Graduate Board
+
+- intent: Faculty_Graduate_School_Committees
+  examples: |
+   - Faculty Graduate School Committees
+
+- intent: PGR_Programmes_and_Quality_Group
+  examples: |
+   - PGR Programmes and Quality Group
+
+- intent: Examinations_Group
+  examples: |
+   - Examinations Group
+
+- intent: Scholarships,_studentships_and_prizes
+  examples: |
+   - Scholarships, studentships and prizes
+
+- intent: Higher_Doctorates
+  examples: |
+   - Higher Doctorates
+
+- intent: Postgraduate_Researcher_Development_Steering_Group
+  examples: |
+   - Postgraduate Researcher Development Steering Group 
+
+- intent: Steering_Committee_for_Doctoral_Training_Grants
+  examples: |
+   - Steering Committee for Doctoral Training Grants 
+
+- intent: Module_review
+  examples: |
+   - Module review
+
+- intent: Student_education_review_-_overview
+  examples: |
+   - Student education review - overview
+
+- intent: Module_evaluation_surveys
+  examples: |
+   - Module evaluation surveys
+
+- intent: Module_evaluation_survey_questions
+  examples: |
+   - Module evaluation survey questions
+
+- intent: Programme_review
+  examples: |
+   - Programme review
+
+- intent: Collaborative_provision_review
+  examples: |
+   - Collaborative provision review
+
+- intent: Annual_School_Review_Student_Education
+  examples: |
+   - Annual School Review (Student Education)
+
+- intent: Review_of_Study_Abroad/Horizon_Year_Partnerships
+  examples: |
+   - Review of Study Abroad/Horizon Year Partnerships
+
+- intent: Collaborative_programme_approval
+  examples: |
+   - Collaborative programme approval
+
+- intent: Collaborative_provision_amendments
+  examples: |
+   - Collaborative provision amendments
+
+- intent: Collaborative_provision_review
+  examples: |
+   - Collaborative provision review
+
+- intent: Collaborative_provision_withdrawal
+  examples: |
+   - Collaborative provision withdrawal
+
+- intent: Teaching_Enhancement_Scheme_overview
+  examples: |
+   - Teaching Enhancement Scheme overview
+
+- intent: Putting_the_Teaching_Enhancement_Scheme_into_action
+  examples: |
+   - Putting the Teaching Enhancement Scheme into action
+
+- intent: TES_case_studies
+  examples: |
+   - TES case studies
+
+- intent: Module_evaluations
+  examples: |
+   - Module evaluations
+
+- intent: How_to_guide_-_Explorance_Blue
+  examples: |
+   - How to guide - Explorance Blue
+
+- intent: Explorance_Blue_Reports
+  examples: |
+   - Explorance Blue Reports
+
+- intent: Resources_for_Module_Leaders
+  examples: |
+   - Resources for Module Leaders
+
+- intent: Guidance_on_Interpreting_and_Responding_to_Feedback
+  examples: |
+   - Guidance on Interpreting and Responding to Feedback
+
+- intent: How_to_guide_–_the_Student_Report
+  examples: |
+   - How to guide – the Student Report 
+
+- intent: The_Student_Report_-_Closing_the_Feedback_Loop
+  examples: |
+   - The Student Report - Closing the Feedback Loop
+
+- intent: Information_for_Directors_of_Student_Education
+  examples: |
+   - Information for Directors of Student Education
+
+- intent: Quality_Assurance_checklist_and_deadlines_–_2021/22_session
+  examples: |
+   - Quality Assurance checklist and deadlines – 2021/22 session
+
+- intent: School_Action_Planning_Process
+  examples: |
+   - School Action Planning Process
+
+- intent: Accreditation_taught_programmes
+  examples: |
+   - Accreditation (taught programmes)
+
+- intent: External_examiners
+  examples: |
+   - External examiners
+
+- intent: Quality_Assurance_Forms
+  examples: |
+   - Quality Assurance Forms
+
+- intent: Regulatory_reporting_of_data
+  examples: |
+   - Regulatory reporting of data
+
+- intent: Accreditation_taught_programmes
+  examples: |
+   - Accreditation (taught programmes)
+
+- intent: Accreditation_of_prior_learning
+  examples: |
+   - Accreditation of prior learning
+
+- intent: Ad_hoc_assessment_invigilation_procedure_and_guide
+  examples: |
+   - Ad hoc assessment invigilation procedure and guide
+
+- intent: Ad_personam_programme_variation_approval
+  examples: |
+   - Ad personam programme variation approval
+
+- intent: Appeals_taught_students
+  examples: |
+   - Appeals (taught students)
+
+- intent: Assessment_assistants_operational_guide_taught_students
+  examples: |
+   - Assessment assistants operational guide (taught students)
+
+- intent: Assessment_framework_taught_students
+  examples: |
+   - Assessment framework (taught students)
+
+- intent: Assessment_sub-offices_operational_guide
+  examples: |
+   - Assessment sub-offices operational guide
+
+- intent: Attendance_code_of_practice_taught_students
+  examples: |
+   - Attendance code of practice (taught students)
+
+- intent: Audio_and_visual_in_student_education
+  examples: |
+   - Audio and visual in student education
+
+- intent: Blended_learning_strategy
+  examples: |
+   - Blended learning strategy
+
+- intent: Cheating,_plagiarism,_fraudulent_or_fabricated_coursework,_and_malpractice_in_University_assessments_taught_students
+  examples: |
+   - Cheating, plagiarism, fraudulent or fabricated coursework, and malpractice in University assessments (taught students)
+
+- intent: Code_of_Practice_on_Assessment_taught_students
+  examples: |
+   - Code of Practice on Assessment (taught students)
+
+- intent: Committees_of_the_University
+  examples: |
+   - Committees of the University
+
+- intent: Criminal_records
+  examples: |
+   - Criminal records
+
+- intent: Data_protection
+  examples: |
+   - Data protection
+
+- intent: Declarations_of_Academic_integrity
+  examples: |
+   - Declarations of Academic integrity
+
+- intent: Dignity_and_mutual_respect
+  examples: |
+   - Dignity and mutual respect
+
+- intent: Disabled_postgraduate_research_students:_guide_for_examiners
+  examples: |
+   - Disabled postgraduate research students: guide for examiners
+
+- intent: Distance_learning_taught_students
+  examples: |
+   - Distance learning (taught students)
+
+- intent: Engagement_monitoring_attendance
+  examples: |
+   - Engagement monitoring (attendance)
+
+- intent: Equality_and_inclusion
+  examples: |
+   - Equality and inclusion
+
+- intent: Examination_scripts_-_availability_to_candidates
+  examples: |
+   - Examination scripts - availability to candidates
+
+- intent: Exclusion_from_assessment_taught_students
+  examples: |
+   - Exclusion from assessment (taught students)
+
+- intent: External_examiner_handbook_taught_students
+  examples: |
+   - External examiner handbook (taught students)
+
+- intent: Fitness_to_practice
+  examples: |
+   - Fitness to practice
+
+- intent: General_University_Disciplinary_Regulations
+  examples: |
+   - General University Disciplinary Regulations
+
+- intent: Ill_health_exclusion
+  examples: |
+   - Ill health exclusion
+
+- intent: Intellectual_property_rights
+  examples: |
+   - Intellectual property rights
+
+- intent: Invigilation_operational_guide_taught_students
+  examples: |
+   - Invigilation operational guide (taught students)
+
+- intent: Joint_honours_definition_taught_students
+  examples: |
+   - Joint honours definition (taught students)
+
+- intent: Joint_honours_programme_approval
+  examples: |
+   - Joint honours programme approval
+
+- intent: Language_attainment_guidelines_for_study_or_work_abroad
+  examples: |
+   - Language attainment guidelines for study or work abroad
+
+- intent: Learning_analytics_-_strategy_and_code_of_practice
+  examples: |
+   - Learning analytics - strategy and code of practice
+
+- intent: Major_programme_amendment
+  examples: |
+   - Major programme amendment
+
+- intent: Malpractice_in_assessments
+  examples: |
+   - Malpractice in assessments
+
+- intent: Misconduct_in_academic_research
+  examples: |
+   - Misconduct in academic research
+
+- intent: Mitigating_circumstances_letters_and_letters_of_attendance_at_counselling
+  examples: |
+   - Mitigating circumstances letters and letters of attendance at counselling
+
+- intent: Module_codes
+  examples: |
+   - Module codes
+
+- intent: Muslim_prayer_room
+  examples: |
+   - Muslim prayer room
+
+- intent: Open_Educational_Resources_taught_students
+  examples: |
+   - Open Educational Resources (taught students)
+
+- intent: Ordinances
+  examples: |
+   - Ordinances
+
+- intent: Parents_or_carers
+  examples: |
+   - Parents or carers
+
+- intent: Peer_mentoring_policy
+  examples: |
+   - Peer mentoring policy
+
+- intent: Penalties
+  examples: |
+   - Penalties
+
+- intent: Personal_tutorials
+  examples: |
+   - Personal tutorials
+
+- intent: PhD_by_published_work
+  examples: |
+   - PhD by published work
+
+- intent: Placement_and_study_abroad_-_student_support
+  examples: |
+   - Placement and study abroad - student support
+
+- intent: Placement_leaders_handbook
+  examples: |
+   - Placement leaders handbook 
+
+- intent: Postgraduate_researchers_enrolling_on_taught_modules
+  examples: |
+   - Postgraduate researchers enrolling on taught modules
+
+- intent: Pregnant_students_and_students_with_very_young_children
+  examples: |
+   - Pregnant students and students with very young children
+
+- intent: Programme_title_changes_taught_students
+  examples: |
+   - Programme title changes (taught students)
+
+- intent: Programmes_with_related_titles_taught_students
+  examples: |
+   - Programmes with related titles (taught students)
+
+- intent: Proof-reading_taught_components
+  examples: |
+   - Proof-reading (taught components)
+
+- intent: Referencing_policy
+  examples: |
+   - Referencing policy
+
+- intent: Referred_students_postgraduate_research
+  examples: |
+   - Referred students (postgraduate research)
+
+- intent: Referred_students_taught
+  examples: |
+   - Referred students (taught)
+
+- intent: Regulations,_codes,_policies_and_procedures_for_postgraduate_research
+  examples: |
+   - Regulations, codes, policies and procedures for postgraduate research
+
+- intent: Religious_observance
+  examples: |
+   - Religious observance
+
+- intent: Reporting_criminal_offences
+  examples: |
+   - Reporting criminal offences
+
+- intent: Research_degree_candidatures_code_of_practice
+  examples: |
+   - Research degree candidatures code of practice
+
+- intent: Research_degree_examiners:_additional_information
+  examples: |
+   - Research degree examiners: additional information
+
+- intent: Risk_assessment_of_fieldwork
+  examples: |
+   - Risk assessment of fieldwork
+
+- intent: Rules_for_Award_taught_students
+  examples: |
+   - Rules for Award (taught students)
+
+- intent: Safeguarding_data
+  examples: |
+   - Safeguarding data
+
+- intent: Solely_or_jointly_authored_papers_within_a_thesis_submission_research_students
+  examples: |
+   - Solely or jointly authored papers within a thesis submission (research students)
+
+- intent: Special_Cases_Committee
+  examples: |
+   - Special Cases Committee
+
+- intent: Student_complaints
+  examples: |
+   - Student complaints
+
+- intent: Student_Staff_Partnership_Forums
+  examples: |
+   - Student Staff Partnership Forums
+
+- intent: Supplementary_material_within_a_thesis_submission
+  examples: |
+   - Supplementary material within a thesis submission
+
+- intent: Taught_postgraduate_admissions_policies
+  examples: |
+   - Taught postgraduate admissions policies
+
+- intent: Taught_postgraduate_tuition_fee_deposits
+  examples: |
+   - Taught postgraduate tuition fee deposits
+
+- intent: Teaching_Enhancement_Scheme
+  examples: |
+   - Teaching Enhancement Scheme
+
+- intent: Thesis_titles_research_students
+  examples: |
+   - Thesis titles (research students)
+
+- intent: Timetabling_and_central_space_management
+  examples: |
+   - Timetabling and central space management
+
+- intent: Timetabling_Policies_and_Guidance_Documents
+  examples: |
+   - Timetabling Policies and Guidance Documents
+
+- intent: Undergraduate_admissions_policies
+  examples: |
+   - Undergraduate admissions policies
+
+- intent: University_computer_systems_UCS_disciplinary_regulations
+  examples: |
+   - University computer systems (UCS) disciplinary regulations
+
+- intent: University_residences_disciplinary_regulations
+  examples: |
+   - University residences disciplinary regulations
+
+- intent: Unsatisfactory_students_procedure_taught_students
+  examples: |
+   - Unsatisfactory students procedure (taught students)
+
+- intent: Video_streaming_for_a_final_research_degree_oral_examination_research_students
+  examples: |
+   - Video streaming for a final research degree oral examination (research students)
+
+- intent: Change_of_module
+  examples: |
+   - Change of module
+
+- intent: Change_of_programme
+  examples: |
+   - Change of programme 
+
+- intent: Examiners'_joint_report_forms_postgraduate_research
+  examples: |
+   - Examiners' joint report forms (postgraduate research)
+
+- intent: Examiners'_preliminary_report_forms_Research
+  examples: |
+   - Examiners' preliminary report forms (Research)
+
+- intent: Extension_request_form_taught_postgraduate
+  examples: |
+   - Extension request form (taught postgraduate)
+
+- intent: External_examiner_appointment_and_changes_to_appointment
+  examples: |
+   - External examiner appointment and changes to appointment
+
+- intent: External_Examiner_Report_Form_Taught
+  examples: |
+   - External Examiner Report Form (Taught)
+
+- intent: External_review_of_a_new_or_amended_programme
+  examples: |
+   - External review of a new or amended programme 
+
+- intent: Internal_examiner_nomination_form
+  examples: |
+   - Internal examiner nomination form
+
+- intent: Leavers'_forms
+  examples: |
+   - Leavers' forms
+
+- intent: Mitigating_circumstances
+  examples: |
+   - Mitigating circumstances
+
+- intent: New_modules
+  examples: |
+   - New modules
+
+- intent: Programme_proposal_forms_taught_programmes
+  examples: |
+   - Programme proposal forms (taught programmes)
+
+- intent: Programme_review_form
+  examples: |
+   - Programme review form
+
+- intent: Registration_reinstatement_form
+  examples: |
+   - Registration reinstatement form
+
+- intent: Study_Abroad_exchanges
+  examples: |
+   - Study Abroad exchanges
+
+- intent: Thesis_deposit_form
+  examples: |
+   - Thesis deposit form
+
+- intent: Withdrawing_a_taught_programme_of_study
+  examples: |
+   - Withdrawing a taught programme of study
+
+- intent: Book_a_room
+  examples: |
+   - Book a room
+
+- intent: Room_hire
+  examples: |
+   - Room hire
+
+- intent: Room_usage
+  examples: |
+   - Room usage
+
+- intent: Student_Education_Bulletin
+  examples: |
+   - Student Education Bulletin
+
+- intent: Student_Education_Conference_and_Digital_Festival
+  examples: |
+   - Student Education Conference and Digital Festival
+
+- intent: Student_Education_Service_news
+  examples: |
+   - Student Education Service news
+
+- intent: Teaching_timetables
+  examples: |
+   - Teaching timetables
+
+- intent: Timelines_for_programmes_and_assessment
+  examples: |
+   - Timelines for programmes and assessment
+
+- intent: Fresh_Start_Festival_2022
+  examples: |
+   - Fresh Start Festival 2022
+
+- intent: Chair_of_Examinations_Group
+  examples: |
+   - Chair of Examinations Group
+
+- intent: Faculty_teams
+  examples: |
+   - Faculty teams
+
+- intent: Head_of_Graduate_School
+  examples: |
+   - Head of Graduate School 
+
+- intent: Pro-Dean_for_Student_Education
+  examples: |
+   - Pro-Dean for Student Education
+
+- intent: Student_Opportunity_directorate
+  examples: |
+   - Student Opportunity directorate
+
+- intent: Commitment_to_staff_development
+  examples: |
+   - Commitment to staff development
+
+- intent: Student_Education_Service_induction_programme
+  examples: |
+   - Student Education Service induction programme
+
+- intent: Training_and_Development
+  examples: |
+   - Training and Development
+
+- intent: Lean_Ways_of_Working
+  examples: |
+   - Lean Ways of Working
+
+- intent: Learning_resources
+  examples: |
+   - Learning resources
+
+- intent: Academic_Roles_Relating_to_Student_Education
+  examples: |
+   - Academic Roles Relating to Student Education
+
+- intent: Functional_management_teams
+  examples: |
+   - Functional management teams
+
+- intent: Managing_and_analysing_our_websites
+  examples: |
+   - Managing and analysing our websites
+
+- intent: Service_Culture_Statement
+  examples: |
+   - Service Culture Statement
+
+- intent: SES_Principles_for_Ways_of_Working
+  examples: |
+   - SES Principles for Ways of Working
+
+- intent: Staff_Wellbeing
+  examples: |
+   - Staff Wellbeing
+
+- intent: Student_Education_handbook
+  examples: |
+   - Student Education handbook
+
+- intent: Student_Education_Service_aims
+  examples: |
+   - Student Education Service aims
+
