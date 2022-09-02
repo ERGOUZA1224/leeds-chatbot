@@ -6,6 +6,7 @@ intents:
   - affirm
   - deny
   - mood_great
+  - dissatisfied_answer
   - mood_unhappy
   - bot_challenge
   - Accreditation_taught_programmes
@@ -82,7 +83,7 @@ intents:
   - English_language_requirements_for_postgraduate_researchers
   - Exceptional_cases_for_postgraduate_research_admission
   - Induction_for_postgraduate_researchers
-  - Postgraduate_researcher_-_admission_start_dates/changes_of_start_date
+  - Postgraduate_researcher_-_admission_start_dates
   - Postgraduate_researchers_enrolling_on_taught_modules
   - References_for_research_degree_applications
   - Research_postgraduate_admissions_policy
@@ -294,7 +295,7 @@ intents:
   - How_to_guide_–_the_Student_Report
   - The_Student_Report_-_Closing_the_Feedback_Loop
   - Information_for_Directors_of_Student_Education
-  - Quality_Assurance_checklist_and_deadlines_–_2021/22_session
+  - Quality_Assurance_checklist_and_deadlines
   - School_Action_Planning_Process
   - Quality_Assurance_Forms
   - Regulatory_reporting_of_data
@@ -360,6 +361,8 @@ intents:
   - Student_Education_handbook
   - Student_Education_Service_aims
 
+
+
 responses:
   utter_greet:
     - text: "Hey! I am a student education service chatbot. What do you want to know?"
@@ -380,6 +383,11 @@ responses:
   utter_iamabot:
     - text: "I am a bot, powered by Rasa."
 
+  utter_give_feedback:
+    - text: "Could you please give some feedback about the response that you are not satisfied?"
+
+  utter_thanks:
+    - text: "Thank you for your feedback."
   utter_Accreditation_taught_programmes:
   - text: "A number of our programmes have external accreditation. Schools are required to declare which of their programmes are accredited by professional, statutory and regulatory bodies (PSRBs), what the accreditation or inspection arrangements are and inform the QA Team of amendments. The QA Team maintain an accurate database of all accreditations across the institution. Schools are required to provide the reports and any action plans arising from accreditation visits to enable the QA Functional lead to upload the documents to a central repository. Reports from the PSRBs are considered through academic review processes. The QA Team review accreditation reports and produce an annual report to the Taught Student Education Board (TSEB) outlining the institutional status of PSRB and accreditations, and highlighting any issues of institutional significance. More details can be found in the Policy on PSRBs and Accreditation. "
 
@@ -602,7 +610,7 @@ responses:
   utter_Induction_for_postgraduate_researchers:
   - text: "A good induction can help PGRs settle in quickly and begin to make early progress with their research. Postgraduate researchers are provided with a PGR handbook which brings together key rules, regulations and guidance which form the framework of the degree. Copies of the handbook are available on the Doctoral College Minerva organisation or from your faculty Graduate School.   The handbook includes:  the University's Code of practice for research degree candidatures ordinances and regulations and programmes of study for research degrees which include entry requirements, assessment of progress, time limits for examination and criteria for the award of research degrees  University welcome event All new postgraduate researchers are encouraged to attend the University welcome event. They are formally welcomed to the University by Professor Luke Windsor, Dean of Postgraduate Research Studies, signposted to key areas of the University, the resources and facilities available. There is also the opportunity to meet many other new postgraduate researchers. Students are notified of forthcoming welcome events by email, with an invitation to register online. Information provided by schools and faculties Schools should provide students with any local information about the administrative and academic arrangements for undertaking research within that school or faculty. This could include:  information on the specific facilities that are available to PGRs relevant health and safety advice opportunities for participating in conferences information about social and extra-mural activities  You may also provide information about the training that is available through OD&PL. Information provided by the International Student Office Find out about a range of international arrival and orientation services that are available to international and EU postgraduate researchers, and to support any other postgraduate researchers arriving from outside of the UK. "
 
-  utter_Postgraduate_researcher_-_admission_start_dates/changes_of_start_date:
+  utter_Postgraduate_researcher_-_admission_start_dates:
   - text: " There are a number of factors to consider when choosing initial start dates for applicants. You can also find out the process for change of start date, after a formal offer has been made.  Choosing an initial start date Schools need to check whether the start date the applicant has requested is feasible. The decision about the start date can be determined by a number of factors such as:   staff availability  visa processing times  ATAS processing times (4-6 weeks)   if the applicant has already secured funding scholarship deadlines/regulations if the applicant has any conditions they will need to fulfil, such as do they have time to sit IELTS etc.     Some programmes have restricted start dates; it is important that the school bears this in mind and ensures that this start date is correct.   Change of start date When an applicant decides that they wish to change their start date they must agree this with their school. Once agreed, the school either fills out a change of start date form and sends to Postgraduate Research and Operations (PGRO) via rp_applications@leeds.ac.uk or informs PGRO by email of the new start date - within this email trail should be confirmation by the Postgraduate Research Tutor that they agree to the change. PGRO cannot process verbal requests. An amended offer letter with the new start date will then be generated and sent out to the student (a copy will be sent to the school). If the applicant originally applied over two years ago the school should ask the applicant to make a new research study application form and then the school should send a newly completed recommendation report to PGRO.  Some programmes have restricted start dates; it is important that the school bears this in mind and ensures that this start date is correct. "
 
   utter_Postgraduate_researchers_enrolling_on_taught_modules:
@@ -1238,7 +1246,7 @@ responses:
   utter_Information_for_Directors_of_Student_Education:
   - text: "For Directors of Student Education, listed below are hyperlinks to information on the committee structure for taught student education, annual quality assurance requirements, and the procedures/guidance for implementing policy areas that fall within their remit. Quality Assurance checklist and deadlines 2021/22 See the Quality Assurance deadlines for this session and a checklist for module and programme approval, external examiners and action planning processes:  Session deadlines and QA checklist  Committee structure for taught student education, September 2021 The University operates a system of deliberative committees relating to taught student education. The terms of reference and membership for all taught student education committees operating this session are published in the following TSEB paper:  Taught student education committes (2021/22)  Committees    Faculty Taught Student Education Committees School Taught Student Education Committees   University committee papers (Sharepoint) University deliberative group papers (Sharepoint)  PROGRAMME APPROVAL  Approval process overview (modules and programmes)  Fully online programme approval (link to Microsoft Teams) Programme Approval Groups (PAGs) Study abroad approval Collaborative programme approval  Action Planning  School Action Plans  Assessment  Assessment-related policies Assessment strategy Ad personam and ad hoc programme variation Code of practice on assessment (CoPA) Internal examiners External examiners  Review  Student education review Programme review Module review Module evaluation Annual school review (ASR) Collaborative provision review Study abroad review  Student Voices  Student Staff Partnership Forum  Accreditation / Professional, Statuatory and Regulatory Bodies (PSRBs) A number of our taught programmes have accreditation and additional external reporting requirements.   Accreditation  "
 
-  utter_Quality_Assurance_checklist_and_deadlines_–_2021/22_session:
+  utter_Quality_Assurance_checklist_and_deadlines:
   - text: "Directors of Student Education and their colleagues working on programme and module approval or external examiners, will find this information useful. Documentation required for module and programme approval Send the following information to your Faculty Portfolio Manager: New modules, new programmes and major programme amendments  Completed paperwork for new modules, new programmes and major programme amendments, which have been endorsed by the School Taught Student Education Committee (STSEC). A completed Programme Approval Group (PAG) coversheet which sets out the proposals for PAG consideration.  Module amendments and minor programme amendments  Completed reports of STSEC business detailing the module amendments and minor programme amendments which require reporting to Faculty Taught Student Education Committee (FTSEC).  Module and programme approval – deadlines     Approval type   Deadline       New postgraduate taught programme* to commence 2022/23  15 months before the programme commences (note Executive approval is required before a programme can be developed in full).    New undergraduate programme* to commence 2023/24  20 months before the programme commences (note Executive approval is required before a programme can be developed in full).    Quality Check for new programme to commence in 2022/23  Programme Approval Group meeting (PAG) or separate Quality Check in Semester 2, by March 2022    New module to commence in 2022/23  Programme Approval Group meeting (PAG) by March 2022    *Please note that fully online programme approval processes follow a different timeline. For more information and to access guidance and documentation, please join the dedicated Fully Online Education Microsoft Team channel.  External Examiner – deadlines     External Examiner requirement   Deadline      Appointment of new external examiners for 2021/22 To be in place by November 2021   Nomination of new external examiners for 2022/23 By June 2022   Responses to external examiner reports (undergraduate) November 2021   Responses to external examiner reports (postgraduate taught) March 2022     School Action Plans Action Plans will be discussed at the Annual School Review meetings in November/December, and should be regularly updated and shared at School Taught Student Education Committee meetings. See School Action Planning process. "
 
   utter_School_Action_Planning_Process:
@@ -1433,6 +1441,8 @@ responses:
   utter_Student_Education_Service_aims:
   - text: "The Service has been designed to ensure consistent, high quality support for all students and effective support for the academic and university community.  Aims and objectives We will deliver a Student Education Service which:  is recognised as sector-leading nationally by prospective and current students and by staff provides an equitable, consistent and seamless high quality experience for all students builds on the commitment, experience and best practice in current services engages staff across the service in flexible, collaborative teams which maximise opportunities for professional development with effective training and development works in an effective partnership of mutual respect and understanding with academic colleagues, making it clear who does what is both efficient and effective and works to the highest, mutually agreed professional service standards which can be objectively measured and validated is based on agreed, shared end-to‐end processes underpinned by robust systems provides students with the information and support they need digitally as well as face-to-face.  Service principles The Service is underpinned by principles of quality, equity, consistency and opportunity for all students and provides training and career development opportunities for colleagues employed within the Service. "
 
+  utter_other_question:
+    - text: "Do you have any other question?"
 
 session_config:
   session_expiration_time: 60
